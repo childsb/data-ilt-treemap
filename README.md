@@ -1,10 +1,12 @@
 # data-ilt-treemap
 
-HTML, CSS and JSON files for visualizing a Treemap for the Data ILT
 
 To use this:
 
-- you need the index.html, chart.css, treemap.js and <jason data files> in your local directory
-- point your browswer at index.htm using the file command
+- you need to download all the files and directories in the repo locally
+- point your browswer at <localdir>/index.htm using the browser file command
+
+NOTE: this will ONLY work with Firefox and Safari, there is a "cross platform
+security" issue with Google Chrome (at least on OS-X, it may work on Linux).
 
 

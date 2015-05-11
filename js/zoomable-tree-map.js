@@ -40,7 +40,7 @@ grandparent.append("text")
     .attr("y", 6 - margin.top)
     .attr("dy", ".75em");
 
-d3.json("http://codepen.io/boars/pen/7958d57f25d20fae4e606732adbccf73.js", function(root) {
+d3.json("js/original-data.json", function(root) {
   initialize(root);
   accumulate(root);
   layout(root);
