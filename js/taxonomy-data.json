@@ -1,0 +1,76 @@
+{
+ "name": "Data Taxonomy"
+ "children": [
+  {
+   "name": "Relational Database"
+   "children": [
+    {
+     "name": "Tradational RDBMS"
+     "children": [
+      {"name": "Oracle", "value": 1452.13, "url": "www.oracle.com"},
+      {"name": "Microsoft SQL Server", "value": 1220.2, "url": "www.microsoft.com"},
+      {"name": "PostgreSQL", "value": 257.36, "url": "foo.bar.com"},
+      {"name": "DB2", "value": 206.23, "url": "www.ibm.com"},
+      {"name": "Microsoft Access", "value": 138.84, "url": "www.microsoft.com"},
+      {"name": "SQLite", value": 95.28, "url": "foo.bar.com"},
+      {"name": "Sybase ASE", value": 84.62, "url": "foo.bar.com"}
+     ]
+    },
+    {
+     "name": "MySQL Ecosystem"
+     "children": [
+      {"name": "MySQL", "value": 1279.08, "url": "foo.bar.com"}
+     ]
+    },
+    {
+     "name": "NewSQL"
+     "children": [
+      {"name": "Impala", "value": 3416, "url": "http://polisci.osu.edu"}
+     ]
+    },
+   ]
+  },
+  {
+   "name": "Non-Relational Databases (NoSQL)"
+   "children": [
+    {
+     "name": "Document Stores"
+     "children": [
+      {"name": "Interactions and Causal Complexity", "value": 3938, "url": "http://polisci.osu.edu"},
+      {"name": "Theory and Methodology", "value": 743, "url": "http://polisci.osu.edu"},
+      {"name": "Software", "value": 743, "url": "http://polisci.osu.edu"},
+      {"name": "Courses", "value": 743, "url": "http://polisci.osu.edu"}
+     ]
+    },
+    {
+     "name": "Key Value Stores"
+     "children": [
+      {"name": "Hypothesis Testing and Multiplicative Interation Terms", "value": 3938, "url": "http://polisci.osu.edu"},
+      {
+        "name": "Causal Complexity",
+        "children": [
+         {"name": "Causal Complexity and the Study of Politics", "value": 3938, "url": "http://polisci.osu.edu"},
+         {"name": "Political Irrelevance", "value": 743, "url": "http://polisci.osu.edu"},
+         {"name": "boolean3 package for R", "value": 743, "url": "http://polisci.osu.edu"}
+        ]
+      }
+     ]
+    },
+    {
+     "name": "Graph Databases"
+     "children": [
+      {"name": "boolean3 package for R", "value": 3938, "url": "http://polisci.osu.edu"}
+     ]
+    },
+    {
+     "name": "Big Table/Wide Column Stores"
+     "children": [
+      {"name": "PS 4781", "value": 3938, "url": "http://polisci.osu.edu"},
+      {"name": "PS 867", "value": 743, "url": "http://polisci.osu.edu"},
+      {"name": "PS 846", "value": 743, "url": "http://polisci.osu.edu"}
+     ]
+    }
+   ]
+  }
+ ]
+}

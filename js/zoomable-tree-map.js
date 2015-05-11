@@ -1,4 +1,4 @@
-var margin = {top: 20, right: 0, bottom: 0, left: 0},
+var margin = {top: 30, right: 0, bottom: 0, left: 0},
     width = 960,
     height = 500 - margin.top - margin.bottom,
     formatNumber = d3.format(",d"),
@@ -40,7 +40,7 @@ grandparent.append("text")
     .attr("y", 6 - margin.top)
     .attr("dy", ".75em");
 
-d3.json("taxonomy-data.js", function(root) {
+d3.json("http://codepen.io/boars/pen/7958d57f25d20fae4e606732adbccf73.js", function(root) {
   initialize(root);
   accumulate(root);
   layout(root);
@@ -175,3 +175,4 @@ d3.json("taxonomy-data.js", function(root) {
         : d.name;
   }
 });
+
