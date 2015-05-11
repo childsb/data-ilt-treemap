@@ -1,0 +1,62 @@
+{
+ "name": "database-taxonomy",
+ "children": [
+  {
+   "name": "Relational Databases",
+   "children": [
+    {
+     "name": "Traditional Databases",
+     "children": [
+      {"name": "Oracle", "size": 144210},
+      {"name": "MySQL", "size": 129426},
+      {"name": "Microsoft SQL Server", "size": 113103},
+      {"name": "PostgreSQL", "size": 27352},
+      {"name": "DB2", "size": 20104}
+     ]
+    },
+    {
+     "name": "NewSQL",
+     "children": [
+      {"name": "Hive", "size": 4456},
+      {"name": "Impala", "size": 460}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Non-Relational Databases (NoSQL)",
+   "children": [
+    {
+     "name": "Document Stores",
+     "children": [
+      {"name": "MongoDB", "size": 27732},
+      {"name": "CouchDB", "size": 2716},
+      {"name": "Couchbase", "size": 2524},
+      {"name": "RavenDB", "size": 646},
+      {"name": "GemFire", "size": 391}
+     ]
+    },
+    {
+     "name": "Key-value Stores",
+     "children": [
+      {"name": "Redis", "size": 9473},
+      {"name": "Memcached", "size": 3311},
+      {"name": "Riak", "size": 1289},
+      {"name": "Ehchace", "size": 792},
+      {"name": "Hazelcast", "size": 583}
+     ]
+    },
+    {
+     "name": "Wide Column Stores",
+     "children": [
+      {"name": "Cassandra", "size": 10655},
+      {"name": "HBase", "size": 6170},
+      {"name": "Accumulo", "size": 307},
+      {"name": "Hypertable", "size": 62}
+     ]
+    }
+   ]
+  }
+ ]
+}
+
