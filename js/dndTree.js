@@ -1,5 +1,5 @@
 // Get JSON data
-treeJSON = d3.json("json/data-taxonomy.json", function(error, treeData) {
+treeJSON = d3.json("json/database-taxonomy-size-10-plus.json", function(error, treeData) {
 
     // Calculate total nodes, max label length
     var totalNodes = 0;
