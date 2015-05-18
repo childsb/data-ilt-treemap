@@ -1,0 +1,119 @@
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"RDF store"
+  },
+  {
+    "name":"Virtuoso",
+    "website":"http://virtuoso.openlinksw.com/",
+    "details":"http://db-engines.com/en/system/Virtuoso",
+    "size":307,
+    "type":"RDF store"
+  },
+  {
+    "name":"Jena",
+    "website":"http://jena.apache.org/",
+    "details":"http://db-engines.com/en/system/Jena",
+    "size":150,
+    "type":"RDF store"
+  },
+  {
+    "name":"Sesame",
+    "website":"http://www.openrdf.org/",
+    "details":"http://db-engines.com/en/system/Sesame",
+    "size":146,
+    "type":"RDF store"
+  },
+  {
+    "name":"AllegroGraph",
+    "website":"www.franz.com/­agraph/­allegrograph",
+    "details":"http://db-engines.com/en/system/AllegroGraph",
+    "size":79,
+    "type":"RDF store"
+  },
+  {
+    "name":"Algebraix",
+    "website":"www.algebraixdata.com",
+    "details":"http://db-engines.com/en/system/Algebraix",
+    "size":49,
+    "type":"RDF store"
+  },
+  {
+    "name":"Stardog",
+    "website":"stardog.com",
+    "details":"http://db-engines.com/en/system/Stardog",
+    "size":26,
+    "type":"RDF store"
+  },
+  {
+    "name":"GraphDB",
+    "website":"www.ontotext.com/­products/­ontotext-graphdb",
+    "details":"http://db-engines.com/en/system/GraphDB",
+    "size":13,
+    "type":"RDF store"
+  },
+  {
+    "name":"Redland",
+    "website":"librdf.org",
+    "details":"http://db-engines.com/en/system/Redland",
+    "size":13,
+    "type":"RDF store"
+  },
+  {
+    "name":"4store",
+    "website":"4store.org",
+    "details":"http://db-engines.com/en/system/4store",
+    "size":11,
+    "type":"RDF store"
+  },
+  {
+    "name":"RedStore",
+    "website":"www.aelius.com/­njh/­redstore",
+    "details":"http://db-engines.com/en/system/RedStore",
+    "size":10,
+    "type":"RDF store"
+  },
+  {
+    "name":"Strabon",
+    "website":"http://www.strabon.di.uoa.gr/",
+    "details":"http://db-engines.com/en/system/Strabon",
+    "size":9,
+    "type":"RDF store"
+  },
+  {
+    "name":"BrightstarDB",
+    "website":"http://www.brightstardb.com/",
+    "details":"http://db-engines.com/en/system/BrightstarDB",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"CubicWeb",
+    "website":"http://www.cubicweb.org/",
+    "details":"http://db-engines.com/en/system/CubicWeb",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"Dydra",
+    "website":"http://dydra.com/",
+    "details":"http://db-engines.com/en/system/Dydra",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"Mulgara",
+    "website":"http://www.mulgara.org/",
+    "details":"http://db-engines.com/en/system/Mulgara",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"SparkleDB",
+    "website":"http://www.sparkledb.net/",
+    "details":"http://db-engines.com/en/system/SparkleDB",
+    "size":1,
+    "type":"RDF store"
+  }

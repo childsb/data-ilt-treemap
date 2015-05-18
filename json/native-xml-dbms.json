@@ -1,0 +1,42 @@
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"Virtuoso",
+    "website":"http://virtuoso.openlinksw.com/",
+    "details":"http://db-engines.com/en/system/Virtuoso",
+    "size":307,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"Sedna",
+    "website":"www.sedna.org",
+    "details":"http://db-engines.com/en/system/Sedna",
+    "size":103,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"BaseX",
+    "website":"basex.org",
+    "details":"http://db-engines.com/en/system/BaseX",
+    "size":87,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"Tamino",
+    "website":"www.softwareag.com/­corporate/­products/­wm/­tamino/­default.asp",
+    "details":"http://db-engines.com/en/system/Tamino",
+    "size":44,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"eXist-db",
+    "website":"exist-db.org",
+    "details":"http://db-engines.com/en/system/eXist-db",
+    "size":31,
+    "type":"Native XML DBMS"
+  }

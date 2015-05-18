@@ -1,0 +1,336 @@
+  {
+    "name":"Redis",
+    "website":"redis.io",
+    "details":"http://db-engines.com/en/system/Redis",
+    "size":9474,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Memcached",
+    "website":"www.memcached.org",
+    "details":"http://db-engines.com/en/system/Memcached",
+    "size":3312,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Amazon DynamoDB",
+    "website":"aws.amazon.com/­dynamodb",
+    "details":"http://db-engines.com/en/system/DynamoDB",
+    "size":1488,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Riak",
+    "website":"basho.com/­products/­riak-overview",
+    "details":"http://db-engines.com/en/system/Riak",
+    "size":1290,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Ehcache",
+    "website":"",
+    "details":"http://db-engines.com/en/system/Ehcache",
+    "size":793,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Hazelcast",
+    "website":"",
+    "details":"http://db-engines.com/en/system/Hazelcast",
+    "size":583,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Berkeley DB",
+    "website":"http://www.oracle.com/technetwork/products/berkeleydb/",
+    "details":"http://db-engines.com/en/system/Berkeley+DB",
+    "size":361,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Oracle Coherence",
+    "website":"www.oracle.com/­technetwork/­middleware/­coherence/­overview/­index.html",
+    "details":"http://db-engines.com/en/system/Oracle+Coherence",
+    "size":331,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Amazon SimpleDB",
+    "website":"aws.amazon.com/­simpledb",
+    "details":"http://db-engines.com/en/system/Amazon+SimpleDB",
+    "size":297,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Aerospike",
+    "website":"www.aerospike.com",
+    "details":"http://db-engines.com/en/system/Aerospike",
+    "size":243,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Oracle NoSQL",
+    "website":"http://www.oracle.com/technetwork/products/nosqldb/",
+    "details":"http://db-engines.com/en/system/Oracle+NoSQL",
+    "size":214,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Infinispan",
+    "website":"www.jboss.org/­infinispan",
+    "details":"http://db-engines.com/en/system/Infinispan",
+    "size":197,
+    "type":"Key-value store"
+  },
+  {
+    "name":"LevelDB",
+    "website":"code.google.com/­p/­leveldb",
+    "details":"http://db-engines.com/en/system/LevelDB",
+    "size":148,
+    "type":"Key-value store"
+  },
+  {
+    "name":"FoundationDB",
+    "website":"foundationdb.com",
+    "details":"http://db-engines.com/en/system/FoundationDB",
+    "size":114,
+    "type":"Key-value store"
+  },
+  {
+    "name":"ArangoDB",
+    "website":"www.arangodb.com",
+    "details":"http://db-engines.com/en/system/ArangoDB",
+    "size":111,
+    "type":"Key-value store"
+  },
+  {
+    "name":"GridGain",
+    "website":"www.gridgain.com",
+    "details":"http://db-engines.com/en/system/GridGain",
+    "size":86,
+    "type":"Key-value store"
+  },
+  {
+    "name":"ZODB",
+    "website":"www.zodb.org",
+    "details":"http://db-engines.com/en/system/ZODB",
+    "size":66,
+    "type":"Key-value store"
+  },
+  {
+    "name":"GT.M",
+    "website":"www.fisglobal.com/­products-technologyplatforms-gtm",
+    "details":"http://db-engines.com/en/system/GT.M",
+    "size":62,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Tokyo Cabinet",
+    "website":"fallabs.com/­tokyocabinet",
+    "details":"http://db-engines.com/en/system/Tokyo+Cabinet",
+    "size":56,
+    "type":"Key-value store"
+  },
+  {
+    "name":"NCache",
+    "website":"www.alachisoft.com/­ncache",
+    "details":"http://db-engines.com/en/system/NCache",
+    "size":44,
+    "type":"Key-value store"
+  },
+  {
+    "name":"WebSphere eXtreme Scale",
+    "website":"www.ibm.com/­software/­products/­en/­websphere-extreme-scale",
+    "details":"http://db-engines.com/en/system/WebSphere+eXtreme+Scale",
+    "size":40,
+    "type":"Key-value store"
+  },
+  {
+    "name":"WiredTiger",
+    "website":"wiredtiger.com",
+    "details":"http://db-engines.com/en/system/WiredTiger",
+    "size":38,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Tokyo Tyrant",
+    "website":"fallabs.com/­tokyotyrant",
+    "details":"http://db-engines.com/en/system/Tokyo+Tyrant",
+    "size":30,
+    "type":"Key-value store"
+  },
+  {
+    "name":"XAP",
+    "website":"docs.gigaspaces.com",
+    "details":"http://db-engines.com/en/system/XAP",
+    "size":28,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Project Voldemort",
+    "website":"www.project-voldemort.com",
+    "details":"http://db-engines.com/en/system/Project+Voldemort",
+    "size":27,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Hibari",
+    "website":"hibari.github.com/­hibari-doc",
+    "details":"http://db-engines.com/en/system/Hibari",
+    "size":23,
+    "type":"Key-value store"
+  },
+  {
+    "name":"RocksDB",
+    "website":"rocksdb.org",
+    "details":"http://db-engines.com/en/system/RocksDB",
+    "size":22,
+    "type":"Key-value store"
+  },
+  {
+    "name":"MapDB",
+    "website":"www.mapdb.org",
+    "details":"http://db-engines.com/en/system/MapDB",
+    "size":17,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Scalaris",
+    "website":"code.google.com/­p/­scalaris",
+    "details":"http://db-engines.com/en/system/Scalaris",
+    "size":14,
+    "type":"Key-value store"
+  },
+  {
+    "name":"STSdb",
+    "website":"stsdb.com",
+    "details":"http://db-engines.com/en/system/STSdb",
+    "size":14,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Kyoto Cabinet",
+    "website":"fallabs.com/­kyotocabinet",
+    "details":"http://db-engines.com/en/system/Kyoto+Cabinet",
+    "size":10,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Elliptics",
+    "website":"reverbrain.com/­elliptics",
+    "details":"http://db-engines.com/en/system/Elliptics",
+    "size":9,
+    "type":"Key-value store"
+  },
+  {
+    "name":"HyperDex",
+    "website":"hyperdex.org",
+    "details":"http://db-engines.com/en/system/HyperDex",
+    "size":7,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Hamsterdb",
+    "website":"hamsterdb.com",
+    "details":"http://db-engines.com/en/system/Hamsterdb",
+    "size":4,
+    "type":"Key-value store"
+  },
+  {
+    "name":"ScaleOut StateServer",
+    "website":"http://www.scaleoutsoftware.com/products/scaleout-stateserver/",
+    "details":"http://db-engines.com/en/system/ScaleOut+StateServer",
+    "size":3,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Bangdb",
+    "website":"http://www.iqlect.com/product.php",
+    "details":"http://db-engines.com/en/system/Bangdb",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"BergDB",
+    "website":"bergdb.com",
+    "details":"http://db-engines.com/en/system/BergDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"CodernityDB",
+    "website":"http://labs.codernity.com/codernitydb/",
+    "details":"http://db-engines.com/en/system/CodernityDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"GlobalsDB",
+    "website":"http://globalsdb.org/",
+    "details":"http://db-engines.com/en/system/GlobalsDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"HyperLevelDB",
+    "website":"hyperdex.org/­performance/­leveldb",
+    "details":"http://db-engines.com/en/system/HyperLevelDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Kyoto Tycoon",
+    "website":"http://fallabs.com/kyototycoon/",
+    "details":"http://db-engines.com/en/system/Kyoto+Tycoon",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"LedisDB",
+    "website":"ledisdb.com",
+    "details":"http://db-engines.com/en/system/LedisDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"LightCloud",
+    "website":"http://opensource.plurk.com/LightCloud/",
+    "details":"http://db-engines.com/en/system/LightCloud",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Nanolat",
+    "website":"http://nanolat.com/index/0-2",
+    "details":"http://db-engines.com/en/system/Nanolat",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Quasardb",
+    "website":"www.quasardb.net",
+    "details":"http://db-engines.com/en/system/Quasardb",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Resin Cache",
+    "website":"http://www.caucho.com/",
+    "details":"http://db-engines.com/en/system/Resin+Cache",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Tarantool",
+    "website":"http://tarantool.org/",
+    "details":"http://db-engines.com/en/system/Tarantool",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"TomP2P",
+    "website":"http://tomp2p.net/",
+    "details":"http://db-engines.com/en/system/TomP2P",
+    "size":1,
+    "type":"Key-value store"
+  }

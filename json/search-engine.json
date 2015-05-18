@@ -1,0 +1,119 @@
+  {
+    "name":"Solr",
+    "website":"lucene.apache.org/­solr",
+    "details":"http://db-engines.com/en/system/Solr",
+    "size":8294,
+    "type":"Search engine"
+  },
+  {
+    "name":"Elasticsearch",
+    "website":"www.elasticsearch.org",
+    "details":"http://db-engines.com/en/system/Elasticsearch",
+    "size":6484,
+    "type":"Search engine"
+  },
+  {
+    "name":"Splunk",
+    "website":"www.splunk.com",
+    "details":"http://db-engines.com/en/system/Splunk",
+    "size":4073,
+    "type":"Search engine"
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Search engine"
+  },
+  {
+    "name":"Sphinx",
+    "website":"sphinxsearch.com",
+    "details":"http://db-engines.com/en/system/Sphinx",
+    "size":981,
+    "type":"Search engine"
+  },
+  {
+    "name":"Endeca",
+    "website":"www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html",
+    "details":"http://db-engines.com/en/system/Endeca",
+    "size":854,
+    "type":"Search engine"
+  },
+  {
+    "name":"Google Search Appliance",
+    "website":"www.google.com/­enterprise/­search/­campaigns/­gsa7.html",
+    "details":"http://db-engines.com/en/system/Google+Search+Appliance",
+    "size":371,
+    "type":"Search engine"
+  },
+  {
+    "name":"Amazon CloudSearch",
+    "website":"aws.amazon.com/­cloudsearch",
+    "details":"http://db-engines.com/en/system/Amazon+CloudSearch",
+    "size":174,
+    "type":"Search Engine"
+  },
+  {
+    "name":"Microsoft Azure Search",
+    "website":"azure.microsoft.com/­en-us/­services/­search",
+    "details":"http://db-engines.com/en/system/Microsoft+Azure+Search",
+    "size":75,
+    "type":"Search engine"
+  },
+  {
+    "name":"Xapian",
+    "website":"xapian.org",
+    "details":"http://db-engines.com/en/system/Xapian",
+    "size":56,
+    "type":"Search engine"
+  },
+  {
+    "name":"Indica",
+    "website":"indica.nl",
+    "details":"http://db-engines.com/en/system/Indica",
+    "size":31,
+    "type":"Search engine"
+  },
+  {
+    "name":"Compass",
+    "website":"www.compass-project.org",
+    "details":"http://db-engines.com/en/system/Compass",
+    "size":22,
+    "type":"Search engine"
+  },
+  {
+    "name":"Crate.IO",
+    "website":"crate.io",
+    "details":"http://db-engines.com/en/system/Crate.IO",
+    "size":18,
+    "type":"Search engine"
+  },
+  {
+    "name":"SearchBlox",
+    "website":"www.searchblox.com",
+    "details":"http://db-engines.com/en/system/SearchBlox",
+    "size":9,
+    "type":"Search engine"
+  },
+  {
+    "name":"Srch²",
+    "website":"srch2.com",
+    "details":"http://db-engines.com/en/system/Srch²",
+    "size":2,
+    "type":"Search engine"
+  },
+  {
+    "name":"DBSight",
+    "website":"www.dbsight.net",
+    "details":"http://db-engines.com/en/system/DBSight",
+    "size":1,
+    "type":"Search engine"
+  },
+  {
+    "name":"Exorbyte",
+    "website":"http://www.exorbyte.com/",
+    "details":"http://db-engines.com/en/system/Exorbyte",
+    "size":1,
+    "type":"Search engine"
+  }

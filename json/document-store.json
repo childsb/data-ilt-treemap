@@ -1,0 +1,245 @@
+  {
+    "name":"MongoDB",
+    "website":"www.mongodb.org",
+    "details":"http://db-engines.com/en/system/MongoDB",
+    "size":27733,
+    "type":"Document store"
+  },
+  {
+    "name":"CouchDB",
+    "website":"couchdb.apache.org",
+    "details":"http://db-engines.com/en/system/CouchDB",
+    "size":2717,
+    "type":"Document store"
+  },
+  {
+    "name":"Couchbase",
+    "website":"www.couchbase.com",
+    "details":"http://db-engines.com/en/system/Couchbase",
+    "size":2525,
+    "type":"Document store"
+  },
+  {
+    "name":"Amazon DynamoDB",
+    "website":"aws.amazon.com/­dynamodb",
+    "details":"http://db-engines.com/en/system/DynamoDB",
+    "size":1488,
+    "type":"Document store"
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Document store"
+  },
+  {
+    "name":"RavenDB",
+    "website":"ravendb.net",
+    "details":"http://db-engines.com/en/system/Sybase+IQ",
+    "size":647,
+    "type":"Document store"
+  },
+  {
+    "name":"OrientDB",
+    "website":"http://www.orientdb.org/",
+    "details":"http://db-engines.com/en/system/OrientDB",
+    "size":400,
+    "type":"Document store"
+  },
+  {
+    "name":"GemFire",
+    "website":"http://www.vmware.com/products/application-platform/vfabric-gemfire/overview.html",
+    "details":"http://db-engines.com/en/system/GemFire",
+    "size":392,
+    "type":"Document store"
+  },
+  {
+    "name":"Cloudant",
+    "website":"http://db-engines.com/en/system/Cloudant",
+    "details":"http://db-engines.com/en/system/Cloudant",
+    "size":384,
+    "type":"Document store"
+  },
+  {
+    "name":"RethinkDB",
+    "website":"www.rethinkdb.com",
+    "details":"http://db-engines.com/en/system/RethinkDB",
+    "size":206,
+    "type":"Document store"
+  },
+  {
+    "name":"Datameer",
+    "website":"www.datameer.com",
+    "details":"http://db-engines.com/en/system/Datameer",
+    "size":169,
+    "type":"Document store"
+  },
+  {
+    "name":"Datomic",
+    "website":"www.datomic.com",
+    "details":"http://db-engines.com/en/system/Datomic",
+    "size":147,
+    "type":"Document store"
+  },
+  {
+    "name":"FoundationDB",
+    "website":"foundationdb.com",
+    "details":"http://db-engines.com/en/system/FoundationDB",
+    "size":114,
+    "type":"Document store"
+  },
+  {
+    "name":"ArangoDB",
+    "website":"www.arangodb.com",
+    "details":"http://db-engines.com/en/system/ArangoDB",
+    "size":111,
+    "type":"Document store"
+  },
+  {
+    "name":"Mnesia",
+    "website":"www.erlang.org/­doc/­man/­mnesia.html",
+    "details":"http://db-engines.com/en/system/Mnesia",
+    "size":99,
+    "type":"Document store"
+  },
+  {
+    "name":"Microsoft Azure DocumentDB",
+    "website":"azure.microsoft.com/­en-us/­services/­documentdb",
+    "details":"http://db-engines.com/en/system/Microsoft+Azure+DocumentDB",
+    "size":97,
+    "type":"Document store"
+  },
+  {
+    "name":"PouchDB",
+    "website":"pouchdb.com",
+    "details":"http://db-engines.com/en/system/PouchDB",
+    "size":90,
+    "type":"Document store"
+  },
+  {
+    "name":"Google Cloud Datastore",
+    "website":"developers.google.com/­datastore",
+    "details":"http://db-engines.com/en/system/Google+Cloud+Datastore",
+    "size":83,
+    "type":"Document store"
+  },
+  {
+    "name":"CloudKit",
+    "website":"getcloudkit.com",
+    "details":"http://db-engines.com/en/system/CloudKit",
+    "size":53,
+    "type":"Document store"
+  },
+  {
+    "name":"TokuMX",
+    "website":"www.tokutek.com/­products/­tokumx-for-mongodb",
+    "details":"http://db-engines.com/en/system/TokuMX",
+    "size":48,
+    "type":"Document store"
+  },
+  {
+    "name":"Clusterpoint",
+    "website":"www.clusterpoint.com",
+    "details":"http://db-engines.com/en/system/Clusterpoint",
+    "size":16,
+    "type":"Document store"
+  },
+  {
+    "name":"Terrastore",
+    "website":"code.google.com/­p/­terrastore",
+    "details":"http://db-engines.com/en/system/Terrastore",
+    "size":9,
+    "type":"Document store"
+  },
+  {
+    "name":"DensoDB",
+    "website":"http://densodb.codeplex.com/",
+    "details":"http://db-engines.com/en/system/DensoDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"Djondb",
+    "website":"http://djondb.com/",
+    "details":"http://db-engines.com/en/system/Djondb",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"EJDB",
+    "website":"http://ejdb.org/",
+    "details":"http://db-engines.com/en/system/EJDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"FleetDB",
+    "website":"https://github.com/mmcgrana/fleetdb",
+    "details":"http://db-engines.com/en/system/FleetDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"GlobalsDB",
+    "website":"http://globalsdb.org/",
+    "details":"http://db-engines.com/en/system/GlobalsDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"JasDB",
+    "website":"http://www.oberasoftware.com/jasdb/",
+    "details":"http://db-engines.com/en/system/JasDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"LokiJS",
+    "website":"lokijs.org",
+    "details":"http://db-engines.com/en/system/LokiJS",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"OrigoDB",
+    "website":"origodb.com",
+    "details":"http://db-engines.com/en/system/OrigoDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"RaptorDB",
+    "website":"http://raptordb.codeplex.com/",
+    "details":"http://db-engines.com/en/system/RaptorDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"SenseiDB",
+    "website":"http://senseidb.com/",
+    "details":"http://db-engines.com/en/system/SenseiDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"Sequoiadb",
+    "website":"http://www.sequoiadb.com/",
+    "details":"http://db-engines.com/en/system/Sequoiadb",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"SisoDb",
+    "website":"http://www.sisodb.com/",
+    "details":"http://db-engines.com/en/system/SisoDb",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"WhiteDB",
+    "website":"whitedb.org",
+    "details":"http://db-engines.com/en/system/WhiteDB",
+    "size":1,
+    "type":"Document store"
+  }

@@ -1,0 +1,90 @@
+{
+ "name": "Database Taxonomy", 
+ "children": [
+  { 
+   "name": "Relational  Databases (SQL)",
+   "children": [
+$$Relational DBMS$$
+   ]
+  },
+  { 
+   "name": "Non-Relational Databases (NoSQL)",
+   "children": [
+    {
+     "name": "Tradtional RDBMS", 
+     "name": "Document Stores",
+     "children": [ 
+$$Document store$$
+     ]
+    },
+    {
+     "name": "Graph Databases",
+     "children": [ 
+     ]
+$$Graph DBMS$$
+    },
+    {
+     "name": "Big Table / Wide Column Stores",
+     "children": [ 
+$$Wide column store$$
+     ]
+    },
+    {
+     "name": "Key-Value Stores",
+     "children": [ 
+$$Key-value store$$
+      ]
+     }
+     ]
+    },
+    {
+     "name": "Other NoSQL Data Bases",
+     "children": [ 
+     {
+      "name": "RFD Stores",
+      "children": [
+$$RFD store"
+      ]
+     },
+     {
+      "name": "Object oriented DBMS",
+      "children": [
+$$Object oriented DBMS$$
+      ]
+     },
+     {
+      "name": "Multivalue DBMS",
+      "children": [
+$$Multivalue DBMS$$
+      ]
+     },
+     {
+      "name": "Native XML DBMS",
+      "children": [
+$$Native XML DBMS$$
+      ]
+     },
+     {
+      "name": "Event Stores",
+      "children": [
+$$Event Store$$
+      ]
+     },
+     {
+      "name": "Content Stores",
+      "children": [
+$$Content store$$
+      ]
+     },
+     {
+      "name": "Navigational DBMS",
+      "children": [
+$$Navigational DBMS$$
+      ]
+     }
+     ]
+    }
+   ]
+  }
+ ]
+}

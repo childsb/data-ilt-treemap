@@ -1,0 +1,98 @@
+  {
+    "name":"Amazon DynamoDB",
+    "website":"aws.amazon.com/­dynamodb",
+    "details":"http://db-engines.com/en/system/DynamoDB",
+    "size":1488,
+    "type":"Multi-model "
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Multi-model "
+  },
+  {
+    "name":"OrientDB",
+    "website":"http://www.orientdb.org/",
+    "details":"http://db-engines.com/en/system/OrientDB",
+    "size":400,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Virtuoso",
+    "website":"http://virtuoso.openlinksw.com/",
+    "details":"http://db-engines.com/en/system/Virtuoso",
+    "size":307,
+    "type":"Multi-model "
+  },
+  {
+    "name":"FoundationDB",
+    "website":"foundationdb.com",
+    "details":"http://db-engines.com/en/system/FoundationDB",
+    "size":114,
+    "type":"Multi-model "
+  },
+  {
+    "name":"ArangoDB",
+    "website":"www.arangodb.com",
+    "details":"http://db-engines.com/en/system/ArangoDB",
+    "size":111,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Sqrrl",
+    "website":"sqrrl.com",
+    "details":"http://db-engines.com/en/system/Sqrrl",
+    "size":31,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Crate.IO",
+    "website":"crate.io",
+    "details":"http://db-engines.com/en/system/Crate.IO",
+    "size":18,
+    "type":"Multi-model "
+  },
+  {
+    "name":"GraphDB",
+    "website":"www.ontotext.com/­products/­ontotext-graphdb",
+    "details":"http://db-engines.com/en/system/GraphDB",
+    "size":13,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Amisa Server",
+    "website":"http://www.amisalabs.com/",
+    "details":"http://db-engines.com/en/system/Amisa+Server",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Blazegraph",
+    "website":"blazegraph.com",
+    "details":"http://db-engines.com/en/system/Blazegraph",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"CortexDB",
+    "website":"www.cortex-ag.com/­cortexdoku/­cms.php",
+    "details":"http://db-engines.com/en/system/CortexDB",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"GlobalsDB",
+    "website":"http://globalsdb.org/",
+    "details":"http://db-engines.com/en/system/GlobalsDB",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"OrigoDB",
+    "website":"origodb.com",
+    "details":"http://db-engines.com/en/system/OrigoDB",
+    "size":1,
+    "type":"Multi-model "
+  }

@@ -1,0 +1,70 @@
+  {
+    "name":"Adabas",
+    "website":"http://www.softwareag.com/de/products/adabas_2010/default.asp",
+    "details":"http://db-engines.com/en/system/Adabas",
+    "size":468,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"UniData/UniVerse",
+    "website":"http://u2.rocketsoftware.com/",
+    "details":"http://db-engines.com/en/system/UniData%2CUniVerse",
+    "size":308,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"D3",
+    "website":"www.tigerlogic.com/­tigerlogic/­pick/­database/­index.jsp",
+    "details":"http://db-engines.com/en/system/D3",
+    "size":124,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"jBASE",
+    "website":"www.jbase.com",
+    "details":"http://db-engines.com/en/system/jBASE",
+    "size":99,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"Model 204",
+    "website":"www.rocketsoftware.com/­m204",
+    "details":"http://db-engines.com/en/system/Model+204",
+    "size":78,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"Northgate Reality",
+    "website":"www.northgate-reality.com",
+    "details":"http://db-engines.com/en/system/Northgate+Reality",
+    "size":45,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"SciDB",
+    "website":"scidb.org",
+    "details":"http://db-engines.com/en/system/SciDB",
+    "size":37,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"OpenInsight",
+    "website":"www.revelation.com/­index.php/­products/­openinsight",
+    "details":"http://db-engines.com/en/system/OpenInsight",
+    "size":29,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"Rasdaman",
+    "website":"www.rasdaman.org",
+    "details":"http://db-engines.com/en/system/Rasdaman",
+    "size":9,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"OpenQM",
+    "website":"www.openqm.com",
+    "details":"http://db-engines.com/en/system/OpenQM",
+    "size":5,
+    "type":"Multivalue DBMS"
+  }

@@ -1,0 +1,14 @@
+  {
+    "name":"Jackrabbit",
+    "website":"http://jackrabbit.apache.org/",
+    "details":"http://db-engines.com/en/system/Jackrabbit",
+    "size":408,
+    "type":"Content store"
+  },
+  {
+    "name":"ModeShape",
+    "website":"www.jboss.org/­modeshape",
+    "details":"http://db-engines.com/en/system/ModeShape",
+    "size":12,
+    "type":"Content store"
+  }

@@ -1,0 +1,2025 @@
+[
+  {
+    "name":"Jackrabbit",
+    "website":"http://jackrabbit.apache.org/",
+    "details":"http://db-engines.com/en/system/Jackrabbit",
+    "size":408,
+    "type":"Content store"
+  },
+  {
+    "name":"ModeShape",
+    "website":"www.jboss.org/­modeshape",
+    "details":"http://db-engines.com/en/system/ModeShape",
+    "size":12,
+    "type":"Content store"
+  },
+  {
+    "name":"MongoDB",
+    "website":"www.mongodb.org",
+    "details":"http://db-engines.com/en/system/MongoDB",
+    "size":27733,
+    "type":"Document store"
+  },
+  {
+    "name":"CouchDB",
+    "website":"couchdb.apache.org",
+    "details":"http://db-engines.com/en/system/CouchDB",
+    "size":2717,
+    "type":"Document store"
+  },
+  {
+    "name":"Couchbase",
+    "website":"www.couchbase.com",
+    "details":"http://db-engines.com/en/system/Couchbase",
+    "size":2525,
+    "type":"Document store"
+  },
+  {
+    "name":"Amazon DynamoDB",
+    "website":"aws.amazon.com/­dynamodb",
+    "details":"http://db-engines.com/en/system/DynamoDB",
+    "size":1488,
+    "type":"Document store"
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Document store"
+  },
+  {
+    "name":"RavenDB",
+    "website":"ravendb.net",
+    "details":"http://db-engines.com/en/system/Sybase+IQ",
+    "size":647,
+    "type":"Document store"
+  },
+  {
+    "name":"OrientDB",
+    "website":"http://www.orientdb.org/",
+    "details":"http://db-engines.com/en/system/OrientDB",
+    "size":400,
+    "type":"Document store"
+  },
+  {
+    "name":"GemFire",
+    "website":"http://www.vmware.com/products/application-platform/vfabric-gemfire/overview.html",
+    "details":"http://db-engines.com/en/system/GemFire",
+    "size":392,
+    "type":"Document store"
+  },
+  {
+    "name":"Cloudant",
+    "website":"http://db-engines.com/en/system/Cloudant",
+    "details":"http://db-engines.com/en/system/Cloudant",
+    "size":384,
+    "type":"Document store"
+  },
+  {
+    "name":"RethinkDB",
+    "website":"www.rethinkdb.com",
+    "details":"http://db-engines.com/en/system/RethinkDB",
+    "size":206,
+    "type":"Document store"
+  },
+  {
+    "name":"Datameer",
+    "website":"www.datameer.com",
+    "details":"http://db-engines.com/en/system/Datameer",
+    "size":169,
+    "type":"Document store"
+  },
+  {
+    "name":"Datomic",
+    "website":"www.datomic.com",
+    "details":"http://db-engines.com/en/system/Datomic",
+    "size":147,
+    "type":"Document store"
+  },
+  {
+    "name":"FoundationDB",
+    "website":"foundationdb.com",
+    "details":"http://db-engines.com/en/system/FoundationDB",
+    "size":114,
+    "type":"Document store"
+  },
+  {
+    "name":"ArangoDB",
+    "website":"www.arangodb.com",
+    "details":"http://db-engines.com/en/system/ArangoDB",
+    "size":111,
+    "type":"Document store"
+  },
+  {
+    "name":"Mnesia",
+    "website":"www.erlang.org/­doc/­man/­mnesia.html",
+    "details":"http://db-engines.com/en/system/Mnesia",
+    "size":99,
+    "type":"Document store"
+  },
+  {
+    "name":"Microsoft Azure DocumentDB",
+    "website":"azure.microsoft.com/­en-us/­services/­documentdb",
+    "details":"http://db-engines.com/en/system/Microsoft+Azure+DocumentDB",
+    "size":97,
+    "type":"Document store"
+  },
+  {
+    "name":"PouchDB",
+    "website":"pouchdb.com",
+    "details":"http://db-engines.com/en/system/PouchDB",
+    "size":90,
+    "type":"Document store"
+  },
+  {
+    "name":"Google Cloud Datastore",
+    "website":"developers.google.com/­datastore",
+    "details":"http://db-engines.com/en/system/Google+Cloud+Datastore",
+    "size":83,
+    "type":"Document store"
+  },
+  {
+    "name":"CloudKit",
+    "website":"getcloudkit.com",
+    "details":"http://db-engines.com/en/system/CloudKit",
+    "size":53,
+    "type":"Document store"
+  },
+  {
+    "name":"TokuMX",
+    "website":"www.tokutek.com/­products/­tokumx-for-mongodb",
+    "details":"http://db-engines.com/en/system/TokuMX",
+    "size":48,
+    "type":"Document store"
+  },
+  {
+    "name":"Clusterpoint",
+    "website":"www.clusterpoint.com",
+    "details":"http://db-engines.com/en/system/Clusterpoint",
+    "size":16,
+    "type":"Document store"
+  },
+  {
+    "name":"Terrastore",
+    "website":"code.google.com/­p/­terrastore",
+    "details":"http://db-engines.com/en/system/Terrastore",
+    "size":9,
+    "type":"Document store"
+  },
+  {
+    "name":"DensoDB",
+    "website":"http://densodb.codeplex.com/",
+    "details":"http://db-engines.com/en/system/DensoDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"Djondb",
+    "website":"http://djondb.com/",
+    "details":"http://db-engines.com/en/system/Djondb",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"EJDB",
+    "website":"http://ejdb.org/",
+    "details":"http://db-engines.com/en/system/EJDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"FleetDB",
+    "website":"https://github.com/mmcgrana/fleetdb",
+    "details":"http://db-engines.com/en/system/FleetDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"GlobalsDB",
+    "website":"http://globalsdb.org/",
+    "details":"http://db-engines.com/en/system/GlobalsDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"JasDB",
+    "website":"http://www.oberasoftware.com/jasdb/",
+    "details":"http://db-engines.com/en/system/JasDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"LokiJS",
+    "website":"lokijs.org",
+    "details":"http://db-engines.com/en/system/LokiJS",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"OrigoDB",
+    "website":"origodb.com",
+    "details":"http://db-engines.com/en/system/OrigoDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"RaptorDB",
+    "website":"http://raptordb.codeplex.com/",
+    "details":"http://db-engines.com/en/system/RaptorDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"SenseiDB",
+    "website":"http://senseidb.com/",
+    "details":"http://db-engines.com/en/system/SenseiDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"Sequoiadb",
+    "website":"http://www.sequoiadb.com/",
+    "details":"http://db-engines.com/en/system/Sequoiadb",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"SisoDb",
+    "website":"http://www.sisodb.com/",
+    "details":"http://db-engines.com/en/system/SisoDb",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"WhiteDB",
+    "website":"whitedb.org",
+    "details":"http://db-engines.com/en/system/WhiteDB",
+    "size":1,
+    "type":"Document store"
+  },
+  {
+    "name":"InfluxDB",
+    "website":"influxdb.com",
+    "details":"http://db-engines.com/en/system/InfluxDB",
+    "size":154,
+    "type":"Event Store"
+  },
+  {
+    "name":"Event Store",
+    "website":"https://geteventstore.com/",
+    "details":"http://db-engines.com/en/system/Event+Store",
+    "size":1,
+    "type":"Event Store"
+  },
+  {
+    "name":"NEventStore",
+    "website":"http://neventstore.org/",
+    "details":"http://db-engines.com/en/system/NEventStore",
+    "size":1,
+    "type":"Event Store"
+  },
+  {
+    "name":"Neo4j",
+    "website":"neo4j.org",
+    "details":"http://db-engines.com/en/system/Neo4j",
+    "size":2865,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"OrientDB",
+    "website":"http://www.orientdb.org/",
+    "details":"http://db-engines.com/en/system/OrientDB",
+    "size":400,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"Titan",
+    "website":"http://thinkaurelius.github.com/titan/",
+    "details":"http://db-engines.com/en/system/Titan",
+    "size":352,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"ArangoDB",
+    "website":"www.arangodb.com",
+    "details":"http://db-engines.com/en/system/ArangoDB",
+    "size":111,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"Giraph",
+    "website":"giraph.apache.org",
+    "details":"http://db-engines.com/en/system/Giraph",
+    "size":79,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"Sparksee",
+    "website":"sparsity-technologies.com/­#sparksee",
+    "details":"http://db-engines.com/en/system/Sparksee",
+    "size":54,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"InfiniteGraph",
+    "website":"objectivity.com",
+    "details":"http://db-engines.com/en/system/InfiniteGraph",
+    "size":36,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"InfoGrid",
+    "website":"infogrid.org",
+    "details":"http://db-engines.com/en/system/InfoGrid",
+    "size":25,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"GraphDB",
+    "website":"www.ontotext.com/­products/­ontotext-graphdb",
+    "details":"http://db-engines.com/en/system/GraphDB",
+    "size":13,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"FlockDB",
+    "website":"github.com/­twitter/­flockdb",
+    "details":"http://db-engines.com/en/system/FlockDB",
+    "size":12,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"HyperGraphDB",
+    "website":"www.hypergraphdb.org",
+    "details":"http://db-engines.com/en/system/HyperGraphDB",
+    "size":12,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"GlobalsDB",
+    "website":"http://globalsdb.org/",
+    "details":"http://db-engines.com/en/system/GlobalsDB",
+    "size":1,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"GraphBase",
+    "website":"graphbase.net",
+    "details":"http://db-engines.com/en/system/GraphBase",
+    "size":1,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"VelocityGraph",
+    "website":"www.velocitygraph.com",
+    "details":"http://db-engines.com/en/system/VelocityGraph",
+    "size":1,
+    "type":"Graph DBMS"
+  },
+  {
+    "name":"Redis",
+    "website":"redis.io",
+    "details":"http://db-engines.com/en/system/Redis",
+    "size":9474,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Memcached",
+    "website":"www.memcached.org",
+    "details":"http://db-engines.com/en/system/Memcached",
+    "size":3312,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Amazon DynamoDB",
+    "website":"aws.amazon.com/­dynamodb",
+    "details":"http://db-engines.com/en/system/DynamoDB",
+    "size":1488,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Riak",
+    "website":"basho.com/­products/­riak-overview",
+    "details":"http://db-engines.com/en/system/Riak",
+    "size":1290,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Ehcache",
+    "website":"",
+    "details":"http://db-engines.com/en/system/Ehcache",
+    "size":793,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Hazelcast",
+    "website":"",
+    "details":"http://db-engines.com/en/system/Hazelcast",
+    "size":583,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Berkeley DB",
+    "website":"http://www.oracle.com/technetwork/products/berkeleydb/",
+    "details":"http://db-engines.com/en/system/Berkeley+DB",
+    "size":361,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Oracle Coherence",
+    "website":"www.oracle.com/­technetwork/­middleware/­coherence/­overview/­index.html",
+    "details":"http://db-engines.com/en/system/Oracle+Coherence",
+    "size":331,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Amazon SimpleDB",
+    "website":"aws.amazon.com/­simpledb",
+    "details":"http://db-engines.com/en/system/Amazon+SimpleDB",
+    "size":297,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Aerospike",
+    "website":"www.aerospike.com",
+    "details":"http://db-engines.com/en/system/Aerospike",
+    "size":243,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Oracle NoSQL",
+    "website":"http://www.oracle.com/technetwork/products/nosqldb/",
+    "details":"http://db-engines.com/en/system/Oracle+NoSQL",
+    "size":214,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Infinispan",
+    "website":"www.jboss.org/­infinispan",
+    "details":"http://db-engines.com/en/system/Infinispan",
+    "size":197,
+    "type":"Key-value store"
+  },
+  {
+    "name":"LevelDB",
+    "website":"code.google.com/­p/­leveldb",
+    "details":"http://db-engines.com/en/system/LevelDB",
+    "size":148,
+    "type":"Key-value store"
+  },
+  {
+    "name":"FoundationDB",
+    "website":"foundationdb.com",
+    "details":"http://db-engines.com/en/system/FoundationDB",
+    "size":114,
+    "type":"Key-value store"
+  },
+  {
+    "name":"ArangoDB",
+    "website":"www.arangodb.com",
+    "details":"http://db-engines.com/en/system/ArangoDB",
+    "size":111,
+    "type":"Key-value store"
+  },
+  {
+    "name":"GridGain",
+    "website":"www.gridgain.com",
+    "details":"http://db-engines.com/en/system/GridGain",
+    "size":86,
+    "type":"Key-value store"
+  },
+  {
+    "name":"ZODB",
+    "website":"www.zodb.org",
+    "details":"http://db-engines.com/en/system/ZODB",
+    "size":66,
+    "type":"Key-value store"
+  },
+  {
+    "name":"GT.M",
+    "website":"www.fisglobal.com/­products-technologyplatforms-gtm",
+    "details":"http://db-engines.com/en/system/GT.M",
+    "size":62,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Tokyo Cabinet",
+    "website":"fallabs.com/­tokyocabinet",
+    "details":"http://db-engines.com/en/system/Tokyo+Cabinet",
+    "size":56,
+    "type":"Key-value store"
+  },
+  {
+    "name":"NCache",
+    "website":"www.alachisoft.com/­ncache",
+    "details":"http://db-engines.com/en/system/NCache",
+    "size":44,
+    "type":"Key-value store"
+  },
+  {
+    "name":"WebSphere eXtreme Scale",
+    "website":"www.ibm.com/­software/­products/­en/­websphere-extreme-scale",
+    "details":"http://db-engines.com/en/system/WebSphere+eXtreme+Scale",
+    "size":40,
+    "type":"Key-value store"
+  },
+  {
+    "name":"WiredTiger",
+    "website":"wiredtiger.com",
+    "details":"http://db-engines.com/en/system/WiredTiger",
+    "size":38,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Tokyo Tyrant",
+    "website":"fallabs.com/­tokyotyrant",
+    "details":"http://db-engines.com/en/system/Tokyo+Tyrant",
+    "size":30,
+    "type":"Key-value store"
+  },
+  {
+    "name":"XAP",
+    "website":"docs.gigaspaces.com",
+    "details":"http://db-engines.com/en/system/XAP",
+    "size":28,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Project Voldemort",
+    "website":"www.project-voldemort.com",
+    "details":"http://db-engines.com/en/system/Project+Voldemort",
+    "size":27,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Hibari",
+    "website":"hibari.github.com/­hibari-doc",
+    "details":"http://db-engines.com/en/system/Hibari",
+    "size":23,
+    "type":"Key-value store"
+  },
+  {
+    "name":"RocksDB",
+    "website":"rocksdb.org",
+    "details":"http://db-engines.com/en/system/RocksDB",
+    "size":22,
+    "type":"Key-value store"
+  },
+  {
+    "name":"MapDB",
+    "website":"www.mapdb.org",
+    "details":"http://db-engines.com/en/system/MapDB",
+    "size":17,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Scalaris",
+    "website":"code.google.com/­p/­scalaris",
+    "details":"http://db-engines.com/en/system/Scalaris",
+    "size":14,
+    "type":"Key-value store"
+  },
+  {
+    "name":"STSdb",
+    "website":"stsdb.com",
+    "details":"http://db-engines.com/en/system/STSdb",
+    "size":14,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Kyoto Cabinet",
+    "website":"fallabs.com/­kyotocabinet",
+    "details":"http://db-engines.com/en/system/Kyoto+Cabinet",
+    "size":10,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Elliptics",
+    "website":"reverbrain.com/­elliptics",
+    "details":"http://db-engines.com/en/system/Elliptics",
+    "size":9,
+    "type":"Key-value store"
+  },
+  {
+    "name":"HyperDex",
+    "website":"hyperdex.org",
+    "details":"http://db-engines.com/en/system/HyperDex",
+    "size":7,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Hamsterdb",
+    "website":"hamsterdb.com",
+    "details":"http://db-engines.com/en/system/Hamsterdb",
+    "size":4,
+    "type":"Key-value store"
+  },
+  {
+    "name":"ScaleOut StateServer",
+    "website":"http://www.scaleoutsoftware.com/products/scaleout-stateserver/",
+    "details":"http://db-engines.com/en/system/ScaleOut+StateServer",
+    "size":3,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Bangdb",
+    "website":"http://www.iqlect.com/product.php",
+    "details":"http://db-engines.com/en/system/Bangdb",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"BergDB",
+    "website":"bergdb.com",
+    "details":"http://db-engines.com/en/system/BergDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"CodernityDB",
+    "website":"http://labs.codernity.com/codernitydb/",
+    "details":"http://db-engines.com/en/system/CodernityDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"GlobalsDB",
+    "website":"http://globalsdb.org/",
+    "details":"http://db-engines.com/en/system/GlobalsDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"HyperLevelDB",
+    "website":"hyperdex.org/­performance/­leveldb",
+    "details":"http://db-engines.com/en/system/HyperLevelDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Kyoto Tycoon",
+    "website":"http://fallabs.com/kyototycoon/",
+    "details":"http://db-engines.com/en/system/Kyoto+Tycoon",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"LedisDB",
+    "website":"ledisdb.com",
+    "details":"http://db-engines.com/en/system/LedisDB",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"LightCloud",
+    "website":"http://opensource.plurk.com/LightCloud/",
+    "details":"http://db-engines.com/en/system/LightCloud",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Nanolat",
+    "website":"http://nanolat.com/index/0-2",
+    "details":"http://db-engines.com/en/system/Nanolat",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Quasardb",
+    "website":"www.quasardb.net",
+    "details":"http://db-engines.com/en/system/Quasardb",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Resin Cache",
+    "website":"http://www.caucho.com/",
+    "details":"http://db-engines.com/en/system/Resin+Cache",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Tarantool",
+    "website":"http://tarantool.org/",
+    "details":"http://db-engines.com/en/system/Tarantool",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"TomP2P",
+    "website":"http://tomp2p.net/",
+    "details":"http://db-engines.com/en/system/TomP2P",
+    "size":1,
+    "type":"Key-value store"
+  },
+  {
+    "name":"Amazon DynamoDB",
+    "website":"aws.amazon.com/­dynamodb",
+    "details":"http://db-engines.com/en/system/DynamoDB",
+    "size":1488,
+    "type":"Multi-model "
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Multi-model "
+  },
+  {
+    "name":"OrientDB",
+    "website":"http://www.orientdb.org/",
+    "details":"http://db-engines.com/en/system/OrientDB",
+    "size":400,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Virtuoso",
+    "website":"http://virtuoso.openlinksw.com/",
+    "details":"http://db-engines.com/en/system/Virtuoso",
+    "size":307,
+    "type":"Multi-model "
+  },
+  {
+    "name":"FoundationDB",
+    "website":"foundationdb.com",
+    "details":"http://db-engines.com/en/system/FoundationDB",
+    "size":114,
+    "type":"Multi-model "
+  },
+  {
+    "name":"ArangoDB",
+    "website":"www.arangodb.com",
+    "details":"http://db-engines.com/en/system/ArangoDB",
+    "size":111,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Sqrrl",
+    "website":"sqrrl.com",
+    "details":"http://db-engines.com/en/system/Sqrrl",
+    "size":31,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Crate.IO",
+    "website":"crate.io",
+    "details":"http://db-engines.com/en/system/Crate.IO",
+    "size":18,
+    "type":"Multi-model "
+  },
+  {
+    "name":"GraphDB",
+    "website":"www.ontotext.com/­products/­ontotext-graphdb",
+    "details":"http://db-engines.com/en/system/GraphDB",
+    "size":13,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Amisa Server",
+    "website":"http://www.amisalabs.com/",
+    "details":"http://db-engines.com/en/system/Amisa+Server",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Blazegraph",
+    "website":"blazegraph.com",
+    "details":"http://db-engines.com/en/system/Blazegraph",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"CortexDB",
+    "website":"www.cortex-ag.com/­cortexdoku/­cms.php",
+    "details":"http://db-engines.com/en/system/CortexDB",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"GlobalsDB",
+    "website":"http://globalsdb.org/",
+    "details":"http://db-engines.com/en/system/GlobalsDB",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"OrigoDB",
+    "website":"origodb.com",
+    "details":"http://db-engines.com/en/system/OrigoDB",
+    "size":1,
+    "type":"Multi-model "
+  },
+  {
+    "name":"Adabas",
+    "website":"http://www.softwareag.com/de/products/adabas_2010/default.asp",
+    "details":"http://db-engines.com/en/system/Adabas",
+    "size":468,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"UniData/UniVerse",
+    "website":"http://u2.rocketsoftware.com/",
+    "details":"http://db-engines.com/en/system/UniData%2CUniVerse",
+    "size":308,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"D3",
+    "website":"www.tigerlogic.com/­tigerlogic/­pick/­database/­index.jsp",
+    "details":"http://db-engines.com/en/system/D3",
+    "size":124,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"jBASE",
+    "website":"www.jbase.com",
+    "details":"http://db-engines.com/en/system/jBASE",
+    "size":99,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"Model 204",
+    "website":"www.rocketsoftware.com/­m204",
+    "details":"http://db-engines.com/en/system/Model+204",
+    "size":78,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"Northgate Reality",
+    "website":"www.northgate-reality.com",
+    "details":"http://db-engines.com/en/system/Northgate+Reality",
+    "size":45,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"SciDB",
+    "website":"scidb.org",
+    "details":"http://db-engines.com/en/system/SciDB",
+    "size":37,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"OpenInsight",
+    "website":"www.revelation.com/­index.php/­products/­openinsight",
+    "details":"http://db-engines.com/en/system/OpenInsight",
+    "size":29,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"Rasdaman",
+    "website":"www.rasdaman.org",
+    "details":"http://db-engines.com/en/system/Rasdaman",
+    "size":9,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"OpenQM",
+    "website":"www.openqm.com",
+    "details":"http://db-engines.com/en/system/OpenQM",
+    "size":5,
+    "type":"Multivalue DBMS"
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"Virtuoso",
+    "website":"http://virtuoso.openlinksw.com/",
+    "details":"http://db-engines.com/en/system/Virtuoso",
+    "size":307,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"Sedna",
+    "website":"www.sedna.org",
+    "details":"http://db-engines.com/en/system/Sedna",
+    "size":103,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"BaseX",
+    "website":"basex.org",
+    "details":"http://db-engines.com/en/system/BaseX",
+    "size":87,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"Tamino",
+    "website":"www.softwareag.com/­corporate/­products/­wm/­tamino/­default.asp",
+    "details":"http://db-engines.com/en/system/Tamino",
+    "size":44,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"eXist-db",
+    "website":"exist-db.org",
+    "details":"http://db-engines.com/en/system/eXist-db",
+    "size":31,
+    "type":"Native XML DBMS"
+  },
+  {
+    "name":"IMS",
+    "website":"http://www.ibm.com/software/data/ims/ims/",
+    "details":"http://db-engines.com/en/system/IMS",
+    "size":152,
+    "type":"Navigational DBMS"
+  },
+  {
+    "name":"IDMS",
+    "website":"www.ca.com/­us/­products/­detail/­CA-IDMS.aspx",
+    "details":"http://db-engines.com/en/system/IDMS",
+    "size":138,
+    "type":"Navigational DBMS"
+  },
+  {
+    "name":"Caché",
+    "website":"http://www.intersystems.com/cache/index.html",
+    "details":"http://db-engines.com/en/system/Cach%C3%A9",
+    "size":239,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Db4o",
+    "website":"http://www.db4o.com/",
+    "details":"http://db-engines.com/en/system/Db4o",
+    "size":209,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Versant Object Database",
+    "website":"http://www.versant.com/products/versant-object-database",
+    "details":"http://db-engines.com/en/system/Versant+Object+Database",
+    "size":159,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"ObjectStore",
+    "website":"www.objectstore.com",
+    "details":"http://db-engines.com/en/system/ObjectStore",
+    "size":111,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Objectivity/DB",
+    "website":"www.objectivity.com/­products/­objectivitydb",
+    "details":"http://db-engines.com/en/system/Objectivity%2FDB",
+    "size":68,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"ObjectDB",
+    "website":"www.objectdb.com",
+    "details":"http://db-engines.com/en/system/ObjectDB",
+    "size":37,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Perst",
+    "website":"www.mcobject.com/­perst",
+    "details":"http://db-engines.com/en/system/Perst",
+    "size":37,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"GemStone/S",
+    "website":"gemtalksystems.com",
+    "details":"http://db-engines.com/en/system/GemStone/S",
+    "size":34,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Eloquera",
+    "website":"www.eloquera.com",
+    "details":"http://db-engines.com/en/system/Eloquera",
+    "size":5,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Jade",
+    "website":"http://www.jade.co.nz/jade/",
+    "details":"http://db-engines.com/en/system/Jade",
+    "size":4,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Siaqodb",
+    "website":"siaqodb.com",
+    "details":"http://db-engines.com/en/system/Siaqodb",
+    "size":4,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Versant FastObjects",
+    "website":"http://www.actian.com/products/operational-databases/versant/",
+    "details":"http://db-engines.com/en/system/Versant+FastObjects",
+    "size":3,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"Starcounter",
+    "website":"www.starcounter.com",
+    "details":"http://db-engines.com/en/system/Starcounter",
+    "size":2,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"OrigoDB",
+    "website":"origodb.com",
+    "details":"http://db-engines.com/en/system/OrigoDB",
+    "size":1,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"VelocityDB",
+    "website":"http://www.velocitydb.com/",
+    "details":"http://db-engines.com/en/system/VelocityDB",
+    "size":1,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"WakandaDB",
+    "website":"www.wakanda.org",
+    "details":"http://db-engines.com/en/system/WakandaDB",
+    "size":1,
+    "type":"Object oriented DBMS"
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"RDF store"
+  },
+  {
+    "name":"Virtuoso",
+    "website":"http://virtuoso.openlinksw.com/",
+    "details":"http://db-engines.com/en/system/Virtuoso",
+    "size":307,
+    "type":"RDF store"
+  },
+  {
+    "name":"Jena",
+    "website":"http://jena.apache.org/",
+    "details":"http://db-engines.com/en/system/Jena",
+    "size":150,
+    "type":"RDF store"
+  },
+  {
+    "name":"Sesame",
+    "website":"http://www.openrdf.org/",
+    "details":"http://db-engines.com/en/system/Sesame",
+    "size":146,
+    "type":"RDF store"
+  },
+  {
+    "name":"AllegroGraph",
+    "website":"www.franz.com/­agraph/­allegrograph",
+    "details":"http://db-engines.com/en/system/AllegroGraph",
+    "size":79,
+    "type":"RDF store"
+  },
+  {
+    "name":"Algebraix",
+    "website":"www.algebraixdata.com",
+    "details":"http://db-engines.com/en/system/Algebraix",
+    "size":49,
+    "type":"RDF store"
+  },
+  {
+    "name":"Stardog",
+    "website":"stardog.com",
+    "details":"http://db-engines.com/en/system/Stardog",
+    "size":26,
+    "type":"RDF store"
+  },
+  {
+    "name":"GraphDB",
+    "website":"www.ontotext.com/­products/­ontotext-graphdb",
+    "details":"http://db-engines.com/en/system/GraphDB",
+    "size":13,
+    "type":"RDF store"
+  },
+  {
+    "name":"Redland",
+    "website":"librdf.org",
+    "details":"http://db-engines.com/en/system/Redland",
+    "size":13,
+    "type":"RDF store"
+  },
+  {
+    "name":"4store",
+    "website":"4store.org",
+    "details":"http://db-engines.com/en/system/4store",
+    "size":11,
+    "type":"RDF store"
+  },
+  {
+    "name":"RedStore",
+    "website":"www.aelius.com/­njh/­redstore",
+    "details":"http://db-engines.com/en/system/RedStore",
+    "size":10,
+    "type":"RDF store"
+  },
+  {
+    "name":"Strabon",
+    "website":"http://www.strabon.di.uoa.gr/",
+    "details":"http://db-engines.com/en/system/Strabon",
+    "size":9,
+    "type":"RDF store"
+  },
+  {
+    "name":"BrightstarDB",
+    "website":"http://www.brightstardb.com/",
+    "details":"http://db-engines.com/en/system/BrightstarDB",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"CubicWeb",
+    "website":"http://www.cubicweb.org/",
+    "details":"http://db-engines.com/en/system/CubicWeb",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"Dydra",
+    "website":"http://dydra.com/",
+    "details":"http://db-engines.com/en/system/Dydra",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"Mulgara",
+    "website":"http://www.mulgara.org/",
+    "details":"http://db-engines.com/en/system/Mulgara",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"SparkleDB",
+    "website":"http://www.sparkledb.net/",
+    "details":"http://db-engines.com/en/system/SparkleDB",
+    "size":1,
+    "type":"RDF store"
+  },
+  {
+    "name":"Oracle",
+    "website":"www.oracle.com/­us/­products/­database",
+    "details":"http://db-engines.com/en/system/Oracle",
+    "size":144211,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"MySQL",
+    "website":"www.mysql.com",
+    "details":"http://db-engines.com/en/system/Oracle",
+    "size":129427,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Microsoft SQL Server",
+    "website":"www.microsoft.com/­sqlserver",
+    "details":"http://db-engines.com/en/system/Microsoft+SQL+Server",
+    "size":113104,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"PostgreSQL",
+    "website":"www.postgresql.org",
+    "details":"http://db-engines.com/en/system/PostgreSQL",
+    "size":27353,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"DB2",
+    "website":"ibm.com/­software/­data/­db2",
+    "details":"http://db-engines.com/en/system/DB2",
+    "size":20105,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Microsoft Access",
+    "website":"office.microsoft.com/­en-us/­access",
+    "details":"http://db-engines.com/en/system/Microsoft+Access",
+    "size":14559,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SQLite",
+    "website":"sqlite.org",
+    "details":"http://db-engines.com/en/system/SQLite",
+    "size":10517,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SAP Adaptive Server",
+    "website":"www.sap.com/­pc/­tech/­database/­software/­adaptive-server-enterprise/­index.html",
+    "details":"http://db-engines.com/en/system/SAP+Adaptive+Server",
+    "size":8550,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Teradata",
+    "website":"www.teradata.com",
+    "details":"http://db-engines.com/en/system/Teradata",
+    "size":7014,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"FileMaker",
+    "website":"www.filemaker.com",
+    "details":"http://db-engines.com/en/system/Teradata",
+    "size":5291,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Hive",
+    "website":"hive.apache.org",
+    "details":"http://db-engines.com/en/system/Hive",
+    "size":4457,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Informix",
+    "website":"www.ibm.com/­software/­data/­informix",
+    "details":"http://db-engines.com/en/system/Informix",
+    "size":3675,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SAP HANA",
+    "website":"www.saphana.com",
+    "details":"http://db-engines.com/en/system/SAP+HANA",
+    "size":3279,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"MariaDB",
+    "website":"mariadb.org",
+    "details":"http://db-engines.com/en/system/MariaDB",
+    "size":2361,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Firebird",
+    "website":"www.firebirdsql.org",
+    "details":"http://db-engines.com/en/system/Firebird",
+    "size":2183,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Netezza",
+    "website":"www.netezza.com",
+    "details":"http://db-engines.com/en/system/Netezza",
+    "size":1813,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Microsoft Azure SQL Database",
+    "website":"azure.microsoft.com/­en-us/­services/­sql-database",
+    "details":"http://db-engines.com/en/system/Microsoft+Azure+SQL+Database",
+    "size":1574,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Vertica",
+    "website":"www.vertica.com",
+    "details":"http://db-engines.com/en/system/Vertica",
+    "size":1502,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"dBASE",
+    "website":"www.dbase.com",
+    "details":"http://db-engines.com/en/system/dBASE",
+    "size":1044,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Ingres",
+    "website":"www.actian.com/­products/­operational-databases/­ingres",
+    "details":"http://db-engines.com/en/system/Ingres",
+    "size":1025,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Greenplum",
+    "website":"www.gopivotal.com/­big-data/­pivotal-greenplum-database",
+    "details":"http://db-engines.com/en/system/Greenplum",
+    "size":859,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SAP SQL Anywhere",
+    "website":"www.sap.com/­pc/­tech/­database/­software/­sybase-sql-anywhere",
+    "details":"http://db-engines.com/en/system/SAP+SQL+Anywhere",
+    "size":540,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Amazon Redshift",
+    "website":"aws.amazon.com/­redshift",
+    "details":"http://db-engines.com/en/system/Amazon+Redshift",
+    "size":538,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Interbase",
+    "website":"",
+    "details":"http://db-engines.com/en/system/Interbase",
+    "size":531,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SAP IQ",
+    "website":"www.sap.com/­pc/­tech/­database/­software/­sybase-iq-big-data-management",
+    "details":"http://db-engines.com/en/system/SAP+IQ",
+    "size":523,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"HyperSQL",
+    "website":"",
+    "details":"http://db-engines.com/en/system/HyperSQL",
+    "size":461,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Impala",
+    "website":"http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html",
+    "details":"http://db-engines.com/en/system/Impala",
+    "size":461,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"mSQL",
+    "website":"http://www.hughes.com.au/products/msql/",
+    "details":"http://db-engines.com/en/system/mSQL",
+    "size":444,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Derby",
+    "website":"http://db.apache.org/derby/",
+    "details":"http://db-engines.com/en/system/Derby",
+    "size":405,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"H2",
+    "website":"http://www.h2database.com/",
+    "details":"http://db-engines.com/en/system/H2",
+    "size":394,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Google BigQuery",
+    "website":"http://developers.google.com/bigquery/",
+    "details":"http://db-engines.com/en/system/Google+BigQuery",
+    "size":390,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"MaxDB",
+    "website":"http://maxdb.sap.com/",
+    "details":"http://db-engines.com/en/system/MaxDB",
+    "size":336,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Virtuoso",
+    "website":"http://virtuoso.openlinksw.com/",
+    "details":"http://db-engines.com/en/system/Virtuoso",
+    "size":307,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SAP Advantage Database Server",
+    "website":"www.sap.com/­pc/­tech/­database/­software/­advantage-database-server",
+    "details":"http://db-engines.com/en/system/SAP+Advantage+Database+Server",
+    "size":271,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"TimesTen",
+    "website":"http://www.oracle.com/us/products/database/timesten/index.html",
+    "details":"http://db-engines.com/en/system/TimesTen",
+    "size":270,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"OpenEdge",
+    "website":"http://www.progress.com/en/openedge/developer-productivity/database/index.html",
+    "details":"http://db-engines.com/en/system/OpenEdge",
+    "size":218,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Teradata Aster",
+    "website":"http://www.asterdata.com/",
+    "details":"http://db-engines.com/en/system/Teradata+Aster",
+    "size":183,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"EnterpriseDB",
+    "website":"http://www.enterprisedb.com/",
+    "details":"http://db-engines.com/en/system/EnterpriseDB",
+    "size":178,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Drizzle",
+    "website":"http://www.drizzle.org/",
+    "details":"http://db-engines.com/en/system/Drizzle",
+    "size":155,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"VoltDB",
+    "website":"voltdb.com",
+    "details":"http://db-engines.com/en/system/VoltDB",
+    "size":145,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Percona Server",
+    "website":"www.percona.com/­software/­percona-server",
+    "details":"http://db-engines.com/en/system/Percona+Server",
+    "size":142,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"ParAccel",
+    "website":"www.paraccel.com",
+    "details":"http://db-engines.com/en/system/ParAccel",
+    "size":133,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Infobright",
+    "website":"www.infobright.com",
+    "details":"http://db-engines.com/en/system/Infobright",
+    "size":129,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SQLBase",
+    "website":"www.guptatechnologies.com/­Products/­Data_Management/­SQLBase",
+    "details":"http://db-engines.com/en/system/SQLBase",
+    "size":125,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Oracle Rdb",
+    "website":"http://www.oracle.com/technetwork/database/database-technologies/rdb/overview/index.html",
+    "details":"http://db-engines.com/en/system/Oracle+Rdb",
+    "size":117,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"FoundationDB",
+    "website":"foundationdb.com",
+    "details":"http://db-engines.com/en/system/FoundationDB",
+    "size":114,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"MemSQL",
+    "website":"www.memsql.com",
+    "details":"http://db-engines.com/en/system/MemSQL",
+    "size":106,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"MonetDB",
+    "website":"www.monetdb.org",
+    "details":"http://db-engines.com/en/system/MonetDB",
+    "size":101,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"DataEase",
+    "website":"www.dataease.com",
+    "details":"http://db-engines.com/en/system/DataEase",
+    "size":97,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Empress",
+    "website":"www.empress.com",
+    "details":"http://db-engines.com/en/system/Empress",
+    "size":97,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"NuoDB",
+    "website":"www.nuodb.com",
+    "details":"http://db-engines.com/en/system/NuoDB",
+    "size":97,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Red Brick",
+    "website":"www-03.ibm.com/­software/­products/­us/­en/­redbrick",
+    "details":"http://db-engines.com/en/system/Red+Brick",
+    "size":95,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Amazon Aurora",
+    "website":"aws.amazon.com/­rds/­aurora",
+    "details":"http://db-engines.com/en/system/Amazon+Aurora",
+    "size":89,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Kdb+",
+    "website":"kx.com/­products.php",
+    "details":"http://db-engines.com/en/system/Kdb%2B",
+    "size":88,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Apache Drill",
+    "website":"drill.apache.org",
+    "details":"http://db-engines.com/en/system/Apache+Drill",
+    "size":85,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Altibase",
+    "website":"altibase.com",
+    "details":"http://db-engines.com/en/system/Altibase",
+    "size":84,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"NonStop SQL",
+    "website":"h17007.www1.hp.com/­us/­en/­enterprise/­servers/­integrity/­nonstop/­nonstop-sql.aspx",
+    "details":"http://db-engines.com/en/system/NonStop+SQL",
+    "size":82,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"R:BASE",
+    "website":"www.rbase.com",
+    "details":"http://db-engines.com/en/system/R%3ABASE",
+    "size":82,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Datacom/DB",
+    "website":"www.ca.com/­us/­opscenter/­ca-datacom.aspx",
+    "details":"http://db-engines.com/en/system/Datacom%2FDB",
+    "size":76,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"solidDB",
+    "website":"www.ibm.com/­software/­data/­soliddb",
+    "details":"http://db-engines.com/en/system/solidDB",
+    "size":72,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Clustrix",
+    "website":"www.clustrix.com",
+    "details":"http://db-engines.com/en/system/Clustrix",
+    "size":70,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Vectorwise",
+    "website":"www.actian.com/­products/­vectorwise",
+    "details":"http://db-engines.com/en/system/Vectorwise",
+    "size":67,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"1010data",
+    "website":"www.1010data.com",
+    "details":"http://db-engines.com/en/system/1010data",
+    "size":62,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"TokuDB",
+    "website":"www.tokutek.com/­products/­tokudb-for-mysql",
+    "details":"http://db-engines.com/en/system/TokuDB",
+    "size":62,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"DBISAM",
+    "website":"www.elevatesoft.com/­products?category=dbisam",
+    "details":"http://db-engines.com/en/system/DBISAM",
+    "size":59,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Pervasive PSQL",
+    "website":"www.pervasivedb.com",
+    "details":"http://db-engines.com/en/system/Pervasive+PSQL",
+    "size":57,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"InfiniDB",
+    "website":"infinidb.org",
+    "details":"http://db-engines.com/en/system/InfiniDB",
+    "size":51,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Kognitio",
+    "website":"www.kognitio.com",
+    "details":"http://db-engines.com/en/system/Kognitio",
+    "size":51,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"FrontBase",
+    "website":"www.frontbase.com",
+    "details":"http://db-engines.com/en/system/FrontBase",
+    "size":49,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"OpenBase",
+    "website":"www.openbase.com",
+    "details":"http://db-engines.com/en/system/OpenBase",
+    "size":46,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Hadapt",
+    "website":"hadapt.com",
+    "details":"http://db-engines.com/en/system/Hadapt",
+    "size":45,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"NexusDB",
+    "website":"www.nexusdb.com",
+    "details":"http://db-engines.com/en/system/NexusDB",
+    "size":45,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"VistaDB",
+    "website":"voltdb.com",
+    "details":"http://db-engines.com/en/system/VoltDB",
+    "size":45,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"EXASolution",
+    "website":"www.exasol.com/­en/­products/­exasolution",
+    "details":"http://db-engines.com/en/system/EXASolution",
+    "size":41,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Rainstor",
+    "website":"rainstor.com/­products/­rainstor-database",
+    "details":"http://db-engines.com/en/system/Rainstor",
+    "size":37,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Cubrid",
+    "website":"",
+    "details":"http://db-engines.com/en/system/Cubrid",
+    "size":34,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"ITTIA",
+    "website":"www.ittia.com",
+    "details":"http://db-engines.com/en/system/ITTIA",
+    "size":31,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"eXtremeDB",
+    "website":"www.mcobject.com/­extremedbfamily.shtml",
+    "details":"http://db-engines.com/en/system/eXtremeDB",
+    "size":30,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"ScimoreDB",
+    "website":"www.scimore.com",
+    "details":"http://db-engines.com/en/system/ScimoreDB",
+    "size":28,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Splice Machine",
+    "website":"www.splicemachine.com",
+    "details":"http://db-engines.com/en/system/Splice+Machine",
+    "size":23,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Akiban",
+    "website":"www.akiban.com",
+    "details":"http://db-engines.com/en/system/Akiban",
+    "size":22,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"LucidDB",
+    "website":"luciddb.sourceforge.net",
+    "details":"http://db-engines.com/en/system/LucidDB",
+    "size":21,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"XtremeData",
+    "website":"www.xtremedata.com",
+    "details":"http://db-engines.com/en/system/XtremeData",
+    "size":19,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Crate.IO",
+    "website":"crate.io",
+    "details":"http://db-engines.com/en/system/Crate.IO",
+    "size":18,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Mimer SQL",
+    "website":"http://mimer.com/",
+    "details":"http://db-engines.com/en/system/Mimer+SQL",
+    "size":17,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"WebScaleSQL",
+    "website":"webscalesql.org",
+    "details":"http://db-engines.com/en/system/WebScaleSQL",
+    "size":16,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Dataupia",
+    "website":"www.dataupia.com",
+    "details":"http://db-engines.com/en/system/Dataupia",
+    "size":14,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"ScaleBase",
+    "website":"www.scalebase.com",
+    "details":"http://db-engines.com/en/system/ScaleBase",
+    "size":14,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"GenieDB",
+    "website":"www.geniedb.com",
+    "details":"http://db-engines.com/en/system/GenieDB",
+    "size":9,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"ScaleDB",
+    "website":"www.scaledb.com",
+    "details":"http://db-engines.com/en/system/ScaleDB",
+    "size":9,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SQL.JS",
+    "website":"github.com/­kripken/­sql.js",
+    "details":"http://db-engines.com/en/system/SQL.JS",
+    "size":9,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Tajo",
+    "website":"http://tajo.apache.org/",
+    "details":"http://db-engines.com/en/system/Tajo",
+    "size":8,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Transbase",
+    "website":"www.transaction.de/­products/­transbase.html?L=1",
+    "details":"http://db-engines.com/en/system/Transbase",
+    "size":8,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"TransLattice",
+    "website":"www.translattice.com",
+    "details":"http://db-engines.com/en/system/TransLattice",
+    "size":8,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"SmallSQL",
+    "website":"www.smallsql.de",
+    "details":"http://db-engines.com/en/system/SmallSQL",
+    "size":4,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"c-treeACE",
+    "website":"http://www.faircom.com/ace/products_t.php",
+    "details":"http://db-engines.com/en/system/c-treeACE",
+    "size":3,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"ElevateDB",
+    "website":"www.elevatesoft.com/­products?category=edb",
+    "details":"http://db-engines.com/en/system/ElevateDB",
+    "size":3,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"JethroData",
+    "website":"http://www.jethrodata.com/",
+    "details":"http://db-engines.com/en/system/JethroData",
+    "size":2,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"JustOneDB",
+    "website":"http://www.justonedb.com/",
+    "details":"http://db-engines.com/en/system/JustOneDB",
+    "size":1,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Postgres-XL",
+    "website":"http://www.postgres-xl.org/",
+    "details":"http://db-engines.com/en/system/Postgres-XL",
+    "size":1,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Valentina Server",
+    "website":"www.valentina-db.net",
+    "details":"http://db-engines.com/en/system/Valentina+Server",
+    "size":1,
+    "type":"Relational DBMS"
+  },
+  {
+    "name":"Solr",
+    "website":"lucene.apache.org/­solr",
+    "details":"http://db-engines.com/en/system/Solr",
+    "size":8294,
+    "type":"Search engine"
+  },
+  {
+    "name":"Elasticsearch",
+    "website":"www.elasticsearch.org",
+    "details":"http://db-engines.com/en/system/Elasticsearch",
+    "size":6484,
+    "type":"Search engine"
+  },
+  {
+    "name":"Splunk",
+    "website":"www.splunk.com",
+    "details":"http://db-engines.com/en/system/Splunk",
+    "size":4073,
+    "type":"Search engine"
+  },
+  {
+    "name":"MarkLogic",
+    "website":"www.marklogic.com",
+    "details":"http://db-engines.com/en/system/MarkLogic",
+    "size":991,
+    "type":"Search engine"
+  },
+  {
+    "name":"Sphinx",
+    "website":"sphinxsearch.com",
+    "details":"http://db-engines.com/en/system/Sphinx",
+    "size":981,
+    "type":"Search engine"
+  },
+  {
+    "name":"Endeca",
+    "website":"www.oracle.com/­us/­products/­applications/­commerce/­endeca/­overview/­index.html",
+    "details":"http://db-engines.com/en/system/Endeca",
+    "size":854,
+    "type":"Search engine"
+  },
+  {
+    "name":"Google Search Appliance",
+    "website":"www.google.com/­enterprise/­search/­campaigns/­gsa7.html",
+    "details":"http://db-engines.com/en/system/Google+Search+Appliance",
+    "size":371,
+    "type":"Search engine"
+  },
+  {
+    "name":"Amazon CloudSearch",
+    "website":"aws.amazon.com/­cloudsearch",
+    "details":"http://db-engines.com/en/system/Amazon+CloudSearch",
+    "size":174,
+    "type":"Search Engine"
+  },
+  {
+    "name":"Microsoft Azure Search",
+    "website":"azure.microsoft.com/­en-us/­services/­search",
+    "details":"http://db-engines.com/en/system/Microsoft+Azure+Search",
+    "size":75,
+    "type":"Search engine"
+  },
+  {
+    "name":"Xapian",
+    "website":"xapian.org",
+    "details":"http://db-engines.com/en/system/Xapian",
+    "size":56,
+    "type":"Search engine"
+  },
+  {
+    "name":"Indica",
+    "website":"indica.nl",
+    "details":"http://db-engines.com/en/system/Indica",
+    "size":31,
+    "type":"Search engine"
+  },
+  {
+    "name":"Compass",
+    "website":"www.compass-project.org",
+    "details":"http://db-engines.com/en/system/Compass",
+    "size":22,
+    "type":"Search engine"
+  },
+  {
+    "name":"Crate.IO",
+    "website":"crate.io",
+    "details":"http://db-engines.com/en/system/Crate.IO",
+    "size":18,
+    "type":"Search engine"
+  },
+  {
+    "name":"SearchBlox",
+    "website":"www.searchblox.com",
+    "details":"http://db-engines.com/en/system/SearchBlox",
+    "size":9,
+    "type":"Search engine"
+  },
+  {
+    "name":"Srch²",
+    "website":"srch2.com",
+    "details":"http://db-engines.com/en/system/Srch²",
+    "size":2,
+    "type":"Search engine"
+  },
+  {
+    "name":"DBSight",
+    "website":"www.dbsight.net",
+    "details":"http://db-engines.com/en/system/DBSight",
+    "size":1,
+    "type":"Search engine"
+  },
+  {
+    "name":"Exorbyte",
+    "website":"http://www.exorbyte.com/",
+    "details":"http://db-engines.com/en/system/Exorbyte",
+    "size":1,
+    "type":"Search engine"
+  },
+  {
+    "name":"Cassandra",
+    "website":"cassandra.apache.org",
+    "details":"http://db-engines.com/en/system/Cassandra ",
+    "size":10656,
+    "type":"Wide column store"
+  },
+  {
+    "name":"HBase",
+    "website":"hbase.apache.org",
+    "details":"http://db-engines.com/en/system/HBase",
+    "size":6171,
+    "type":"Wide column store"
+  },
+  {
+    "name":"Accumulo",
+    "website":"http://db-engines.com/en/system/Accumulo",
+    "details":"http://db-engines.com/en/system/Accumulo",
+    "size":308,
+    "type":"Wide column store"
+  },
+  {
+    "name":"Hypertable",
+    "website":"hypertable.org",
+    "details":"http://db-engines.com/en/system/Hypertable",
+    "size":63,
+    "type":"Wide column store"
+  }
+]

@@ -1,0 +1,28 @@
+  {
+    "name":"Cassandra",
+    "website":"cassandra.apache.org",
+    "details":"http://db-engines.com/en/system/Cassandra ",
+    "size":10656,
+    "type":"Wide column store"
+  },
+  {
+    "name":"HBase",
+    "website":"hbase.apache.org",
+    "details":"http://db-engines.com/en/system/HBase",
+    "size":6171,
+    "type":"Wide column store"
+  },
+  {
+    "name":"Accumulo",
+    "website":"http://db-engines.com/en/system/Accumulo",
+    "details":"http://db-engines.com/en/system/Accumulo",
+    "size":308,
+    "type":"Wide column store"
+  },
+  {
+    "name":"Hypertable",
+    "website":"hypertable.org",
+    "details":"http://db-engines.com/en/system/Hypertable",
+    "size":63,
+    "type":"Wide column store"
+  }
