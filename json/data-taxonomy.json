@@ -4,125 +4,34 @@
   { 
    "name": "Relational  Databases (SQL)",
    "children": [
-    {
-     "name": "Tradtional RDBMS", 
-     "children": [ 
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "'New SQL' RDBMS", 
-     "children": [ 
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "MySQL Ecosystem RDBMS", 
-     "children": [ 
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    }
+    { "name": "Tradtional RDBMS" },
+    { "name": "'New SQL' RDBMS" },
+    { "name": "MySQL Ecosystem RDBMS" }
    ]
   },
   { 
    "name": "Non-Relational Databases (NoSQL)",
    "children": [
-    {
-     "name": "Tradtional RDBMS", 
-     "name": "Document Stores",
-     "children": [ 
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "Graph Databases",
-     "children": [ 
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "Big Table / Wide Column Stores",
-     "children": [ 
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
+    { "name": "Document Stores" },
+    { "name": "Graph Databases" },
+    { "name": "Big Table / Wide Column Stores" },
+    { 
      "name": "Key-Value Stores",
      "children": [ 
-     {
-      "name": "Persistent Key-Value Stores",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     },
-     {
-      "name": "Caching Solutions", 
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     }
+      { "name": "Persistent Key-Value Stores" },
+      { "name": "Caching Solutions" }
      ]
     },
-    {
+    { 
      "name": "Other NoSQL Data Bases",
      "children": [ 
-     {
-      "name": "RFD Stores",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     },
-     {
-      "name": "Object oriented DBMS",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     },
-     {
-      "name": "Multivalue DBMS",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     },
-     {
-      "name": "Native XML DBMS",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     },
-     {
-      "name": "Event Stores",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     },
-     {
-      "name": "Content Stores",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     },
-     {
-      "name": "Navigational DBMS",
-      "children": [
-       {"name": "entry1", "size": 100},
-       {"name": "entry2", "size": 100}
-      ]
-     }
+      { "name": "RFD Stores" },
+      { "name": "Object oriented DBMS" },
+      { "name": "Multivalue DBMS" },
+      { "name": "Native XML DBMS" },
+      { "name": "Event Stores" },
+      { "name": "Content Stores" },
+      { "name": "Navigational DBMS" }
      ]
     }
    ]
@@ -130,53 +39,17 @@
   {
    "name": "Data Processing", 
    "children": [
-    {
-     "name": "Programming Models/Frameworks", 
-     "children": [
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "Machine Learning/Data Science", 
-     "children": [
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "Search", 
-     "children": [
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    }
+    { "name": "Programming Models/Frameworks" },
+    { "name": "Machine Learning/Data Science" },
+    { "name": "Search" }
    ]
   },
   {
    "name": "Buisiness Intelligence", 
    "children": [
-    {
-     "name": "Data Transformation Tools (eg: ETL)", 
-     "children": [
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "BI/reporting",
-     "children": [
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    },
-    {
-     "name": "EDW Technologies",
-     "children": [
-      {"name": "entry1", "size": 100},
-      {"name": "entry2", "size": 100}
-     ]
-    }
+    { "name": "Data Transformation Tools (eg: ETL)" },
+    { "name": "BI/reporting" },
+    { "name": "EDW Technologies" }
    ]
   },
   {
@@ -185,199 +58,55 @@
     {
      "name": "Data Protection and Recovery",
      "children" : [
-      {
-       "name": "Data Protection",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Continuous Data Protection",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Bare Metal Restore",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Virtual Tape Library",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Backup and Recovery Reporting",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      }
+      { "name": "Data Protection" },
+      { "name": "Continuous Data Protection" },
+      { "name": "Bare Metal Restore" },
+      { "name": "Virtual Tape Library" },
+      { "name": "Backup and Recovery Reporting" }
      ]
     },
     {
      "name": "Storage Replication",
      "children" : [
-      {
-       "name": "Host/Hypervisor-Based Replication",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "System and Data Migration",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Fabric and Application-Based Replication",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Array Based Replication",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Replication Management",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      }
+      { "name": "Host/Hypervisor-Based Replication" },
+      { "name": "System and Data Migration" },
+      { "name": "Fabric and Application-Based Replication" },
+      { "name": "Array Based Replication" },
+      { "name": "Replication Management" }
      ]
     },
     {
      "name": "Archiving",
      "children" : [
-      {
-       "name": "Email Archiving",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "File and Other Archiving",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      }
+      { "name": "Email Archiving" },
+      { "name": "File and Other Archiving" }
      ]
     },
     {
      "name": "Storage and Device Maangement",
      "children" : [
-      {
-       "name": "SRM and Heterogenous SAN Management",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "SRM and SAN Management for Homogenous Environments",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Storage Device Management",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Other Storage Management",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      }
+      { "name": "SRM and Heterogenous SAN Management" },
+      { "name": "SRM and SAN Management for Homogenous Environments" },
+      { "name": "Storage Device Management" },
+      { "name": "Other Storage Management" }
      ]
     },
     {
      "name": "Storage Infrastructure Software",
      "children" : [
-      {
-       "name": "Virtualization and Federation",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "File Systems and Volume Management",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Access and Path Management",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Automated Storage Tiering",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      }
+      { "name": "Virtualization and Federation" },
+      { "name": "File Systems and Volume Management" },
+      { "name": "Access and Path Management" },
+      { "name": "Automated Storage Tiering" }
      ]
     },
     {
      "name": "Software Defined Storage Platforms",
      "children" : [
-      {
-       "name": "Block-Based Software Defined Storage",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "File-Based Sofware Defined Storage",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Object-Based Software Defined Storage",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      },
-      {
-       "name": "Hyperconverged Software-Defined Storage",
-       "children": [
-        {"name": "entry1", "size": 100},
-        {"name": "entry2", "size": 100}
-       ]
-      }
+      { "name": "Block-Based Software Defined Storage" },
+      { "name": "File-Based Sofware Defined Storage" },
+      { "name": "Object-Based Software Defined Storage" },
+      { "name": "Hyperconverged Software-Defined Storage" }
      ]
     }
    ]

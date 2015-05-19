@@ -38,7 +38,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(40,0)");
 
-d3.json("json/database-taxonomy-save.json", function(error, root) {
+d3.json("json/database-taxonomy-all.json", function(error, root) {
   var nodes = cluster.nodes(root),
       links = cluster.links(nodes);
 

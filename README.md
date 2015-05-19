@@ -41,3 +41,50 @@ NOTE: this will ONLY work with Firefox and Safari, there is a "cross platform
 security" issue with Google Chrome (at least on OS-X, it may work on Linux).
 
 
+Directories:
+===================================================================================
+. (root)	Contains .html files
+./js  		Contains JavaScript (.js) files
+./json		Contains JSON (.json) data files
+./css		Contains CSS style sheets
+
+JSON Data Files
+===================================================================================
+
+raw-data.csv	Raw data from Google Spreadsheet (); downloaded as a .csv file
+convertcsv.json raw-data-csv file converted to JSON using web service @ 
+                http://www.convertcsv.com/csv-to-json.htm
+
+database-taxonomy-template
+                "template file", hold sturcture for the database-taxonomy
+
+database-taxonomy-all.json
+                All database offerings, all fields (including "website", "details"
+                and "type"). 
+
+database-taxonomy-size-10-plus.json
+                All database offerings, but only "name" and "size" fields, and
+                only offerings with "size" >= 10. (weeds out the stragglers mannually)
+database-taxonomy-size-all.json
+                All database offerings, but only "name" and "size" fields, for all
+                offerings regardless of size (so includes the stragglers).
+
+content-store.json
+data-taxonomy.json
+document-store.json
+event-store.json
+graph-dbms.json
+key-value-store.json
+multi-model.json
+multivalue-dbms.json
+native-xml-dbms.json
+navigational-dbms.json
+object-oriented-dbms.json
+rdf-store.json
+relational-dbms.json
+search-engine.json
+wide-column-store.json
+                 JSON files for individual database categories (e.g. relational-dbms.json
+                 for all offerings where "type" = "Relational DBMS"). These files are 
+                 effectively substitued for the "--DUMMY NAME--" entry in the template file
+                 (json/database-taxonomy-template). 
