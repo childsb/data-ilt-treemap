@@ -2,7 +2,7 @@
  "name": "Database Taxonomy", 
  "children": [
   { 
-   "name": "Relational  Databases (SQL)",
+   "name": "Relational Databases (SQL)",
    "children": [
   {
     "name":"Oracle",
@@ -1442,16 +1442,14 @@
     "size":1,
     "type":"Key-value store"
   }
-      ]
-     }
      ]
     },
     {
-     "name": "Other NoSQL Data Bases",
+     "name": "Other Non-Relational (NoSQL) Data Bases",
      "children": [ 
-     {
-      "name": "RFD Stores",
-      "children": [
+      {
+       "name": "RFD Stores",
+       "children": [
   {
     "name":"MarkLogic",
     "website":"www.marklogic.com",

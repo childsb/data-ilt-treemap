@@ -2,84 +2,81 @@
  "name": "Database Taxonomy", 
  "children": [
   { 
-   "name": "Relational  Databases (SQL)",
+   "name": "Relational Databases (SQL)",
    "children": [
-$$Relational DBMS$$
+{ "name": "--DUMMY NAME--", "size": 999}
    ]
   },
   { 
    "name": "Non-Relational Databases (NoSQL)",
    "children": [
     {
-     "name": "Tradtional RDBMS", 
      "name": "Document Stores",
      "children": [ 
-$$Document store$$
+{ "name": "--DUMMY NAME--", "size": 999}
      ]
     },
     {
      "name": "Graph Databases",
      "children": [ 
+{ "name": "--DUMMY NAME--", "size": 999}
      ]
-$$Graph DBMS$$
     },
     {
      "name": "Big Table / Wide Column Stores",
      "children": [ 
-$$Wide column store$$
+{ "name": "--DUMMY NAME--", "size": 999}
      ]
     },
     {
      "name": "Key-Value Stores",
      "children": [ 
-$$Key-value store$$
-      ]
-     }
+{ "name": "--DUMMY NAME--", "size": 999}
      ]
     },
     {
-     "name": "Other NoSQL Data Bases",
+     "name": "Other Non-Relational (NoSQL) Databases",
      "children": [ 
      {
       "name": "RFD Stores",
       "children": [
-$$RFD store"
+{ "name": "--DUMMY NAME--", "size": 999}
       ]
      },
      {
       "name": "Object oriented DBMS",
       "children": [
-$$Object oriented DBMS$$
+{ "name": "--DUMMY NAME--", "size": 999}
       ]
      },
      {
       "name": "Multivalue DBMS",
       "children": [
-$$Multivalue DBMS$$
+{ "name": "--DUMMY NAME--", "size": 999}
       ]
      },
      {
       "name": "Native XML DBMS",
       "children": [
-$$Native XML DBMS$$
+{ "name": "--DUMMY NAME--", "size": 999}
       ]
      },
      {
       "name": "Event Stores",
       "children": [
-$$Event Store$$
+{ "name": "--DUMMY NAME--", "size": 999}
       ]
      },
      {
       "name": "Content Stores",
       "children": [
-$$Content store$$
+{ "name": "--DUMMY NAME--", "size": 999}
       ]
      },
      {
       "name": "Navigational DBMS",
       "children": [
-$$Navigational DBMS$$
+{ "name": "--DUMMY NAME--", "size": 999}
       ]
      }
      ]

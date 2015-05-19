@@ -2,7 +2,7 @@
  "name": "Database Taxonomy", 
  "children": [
   { 
-   "name": "Relational  Databases (SQL)",
+   "name": "Relational Databases (SQL)",
    "children": [
   { "name":"Oracle", "size":144211 },
   { "name":"MySQL", "size":129427 },
@@ -40,7 +40,7 @@
   { "name":"SAP Advantage Database Server", "size":271 },
   { "name":"TimesTen", "size":270 },
   { "name":"OpenEdge", "size":218 },
-  { "name":"Teradata Aster", "size":183, },
+  { "name":"Teradata Aster", "size":183 },
   { "name":"EnterpriseDB", "size":178 },
   { "name":"Drizzle", "size":155 },
   { "name":"VoltDB", "size":145 },
@@ -108,7 +108,7 @@
    ]
   },
   { 
-   "name": "Non-Relational Databases (NoSQL)",
+   "name": "Non-Relational (NoSQL) Databases", 
    "children": [
     {
      "name": "Tradtional RDBMS", 
@@ -218,7 +218,7 @@
   { "name":"ScaleOut StateServer", "size":3 },
   { "name":"Bangdb", "size":1 },
   { "name":"BergDB", "size":1 },
-  { "name":"CodernityDB", "size": },
+  { "name":"CodernityDB", "size":1 },
   { "name":"GlobalsDB", "size":1 },
   { "name":"HyperLevelDB", "size":1 },
   { "name":"Kyoto Tycoon", "size":1 },
@@ -229,16 +229,14 @@
   { "name":"Resin Cache", "size":1 },
   { "name":"Tarantool", "size":1 },
   { "name":"TomP2P", "size":1 }
-      ]
-     }
      ]
     },
     {
-     "name": "Other NoSQL Data Bases",
+     "name": "Other Non-Relational (NoSQL) Databases",
      "children": [ 
-     {
-      "name": "RFD Stores",
-      "children": [
+      {
+       "name": "RFD Stores",
+       "children": [
   { "name":"MarkLogic", "size":991 },
   { "name":"Virtuoso", "size":307 },
   { "name":"Jena", "size":150 },
@@ -256,11 +254,11 @@
   { "name":"Dydra", "size":1 },
   { "name":"Mulgara", "size":1 },
   { "name":"SparkleDB", "size":1 }
-      ]
-     },
-     {
-      "name": "Object oriented DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Object oriented DBMS",
+       "children": [
   { "name":"Caché", "size":239 },
   { "name":"Db4o", "size":209 },
   { "name":"Versant Object Database", "size":159 },
@@ -277,11 +275,11 @@
   { "name":"OrigoDB", "size":1 },
   { "name":"VelocityDB", "size":1 },
   { "name":"WakandaDB", "size":1 }
-      ]
-     },
-     {
-      "name": "Multivalue DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Multivalue DBMS",
+       "children": [
   { "name":"Adabas", "size":468 },
   { "name":"UniData/UniVerse", "size":308 },
   { "name":"D3", "size":124 },
@@ -292,41 +290,41 @@
   { "name":"OpenInsight", "size":29 },
   { "name":"Rasdaman", "size":9 },
   { "name":"OpenQM", "size":5 }
-      ]
-     },
-     {
-      "name": "Native XML DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Native XML DBMS",
+       "children": [
   { "name":"MarkLogic", "size":991 },
   { "name":"Virtuoso", "size":307 },
   { "name":"Sedna", "size":103 },
   { "name":"BaseX", "size":87 },
   { "name":"Tamino", "size":44 },
   { "name":"eXist-db", "size":31 }
-      ]
-     },
-     {
-      "name": "Event Stores",
-      "children": [
+       ]
+      },
+      {
+       "name": "Event Stores",
+       "children": [
   { "name":"InfluxDB", "size":154 },
   { "name":"Event Store", "size":1 },
   { "name":"NEventStore", "size":1 }
-      ]
-     },
-     {
-      "name": "Content Stores",
-      "children": [
+       ]
+      },
+      {
+       "name": "Content Stores",
+       "children": [
   { "name":"Jackrabbit", "size":408 },
   { "name":"ModeShape", "size":12 }
-      ]
-     },
-     {
-      "name": "Navigational DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Navigational DBMS",
+       "children": [
   { "name":"IMS", "size":152 },
   { "name":"IDMS", "size":138 }
-      ]
-     }
+       ]
+      }
      ]
     }
    ]

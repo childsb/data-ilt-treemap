@@ -183,15 +183,13 @@
   { "name":"STSdb", "size":14 },
   { "name":"Kyoto Cabinet", "size":10 }
       ]
-     }
-     ]
-    },
-    {
-     "name": "Other NoSQL Data Bases",
-     "children": [ 
+     },
      {
-      "name": "RFD Stores",
-      "children": [
+      "name": "Other NoSQL Data Bases",
+      "children": [ 
+      {
+       "name": "RFD Stores",
+       "children": [
   { "name":"MarkLogic", "size":991 },
   { "name":"Virtuoso", "size":307 },
   { "name":"Jena", "size":150 },
@@ -203,11 +201,11 @@
   { "name":"Redland", "size":13 },
   { "name":"4store", "size":11 },
   { "name":"RedStore", "size":10 }
-      ]
-     },
-     {
-      "name": "Object oriented DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Object oriented DBMS",
+       "children": [
   { "name":"Caché", "size":239 },
   { "name":"Db4o", "size":209 },
   { "name":"Versant Object Database", "size":159 },
@@ -216,11 +214,11 @@
   { "name":"ObjectDB", "size":37 },
   { "name":"Perst", "size":37 },
   { "name":"GemStone/S", "size":34 }
-      ]
-     },
-     {
-      "name": "Multivalue DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Multivalue DBMS",
+       "children": [
   { "name":"Adabas", "size":468 },
   { "name":"UniData/UniVerse", "size":308 },
   { "name":"D3", "size":124 },
@@ -229,40 +227,42 @@
   { "name":"Northgate Reality", "size":45 },
   { "name":"SciDB", "size":37 },
   { "name":"OpenInsight", "size":29 }
-      ]
-     },
-     {
-      "name": "Native XML DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Native XML DBMS",
+       "children": [
   { "name":"MarkLogic", "size":991 },
   { "name":"Virtuoso", "size":307 },
   { "name":"Sedna", "size":103 },
   { "name":"BaseX", "size":87 },
   { "name":"Tamino", "size":44 },
   { "name":"eXist-db", "size":31 }
-      ]
-     },
-     {
-      "name": "Event Stores",
-      "children": [
+       ]
+      },
+      {
+       "name": "Event Stores",
+       "children": [
   { "name":"InfluxDB", "size":154 }
-      ]
-     },
-     {
-      "name": "Content Stores",
-      "children": [
+       ]
+      },
+      {
+       "name": "Content Stores",
+       "children": [
   { "name":"Jackrabbit", "size":408 },
   { "name":"ModeShape", "size":12 }
-      ]
-     },
-     {
-      "name": "Navigational DBMS",
-      "children": [
+       ]
+      },
+      {
+       "name": "Navigational DBMS",
+       "children": [
   { "name":"IMS", "size":152 },
   { "name":"IDMS", "size":138 }
-      ]
-     }
+       ]
+      }
      ]
     }
    ]
   }
+ ]
+}

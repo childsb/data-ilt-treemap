@@ -39,7 +39,7 @@ var w = 1280 - 80,
     h = 800 - 180,
     x = d3.scale.linear().range([0, w]),
     y = d3.scale.linear().range([0, h]),
-    color = d3.scale.category20c(),
+    color = d3.scale.category10(),
     root,
     node;
 
@@ -59,7 +59,7 @@ var svg = d3.select("#body").append("div")
   .append("svg:g")
     .attr("transform", "translate(.5,.5)");
 
-d3.json("json/database-taxonomy-size-10-plus.json", function(data) {
+d3.json("json/database-taxonomy-size-all.json", function(data) {
   node = root = data;
 
   var nodes = treemap.nodes(root)
