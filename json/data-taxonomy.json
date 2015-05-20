@@ -2,7 +2,7 @@
  "name": "Overall Data Taxnonomy (all categories)",
  "rht": 4,
  "children": [
-  { "name": "Relational  Databases (SQL)  #RedHatOffering:0", "rht": 0, },
+  { "name": "Relational  Databases (SQL)", "rht": 0 },
   { 
    "name": "Non-Relational Databases (NoSQL)",
    "rht": 2,
@@ -10,14 +10,7 @@
     { "name": "Document Stores", "rht": 0 },
     { "name": "Graph Databases", "rht": 0 },
     { "name": "Big Table / Wide Column Stores", "rht": 0 },
-    { 
-     "name": "Key-Value Stores",
-     "rht": 1,
-     "children": [ 
-      { "name": "Persistent Key-Value Stores", "rht": 0 },
-      { "name": "Caching Solutions", "rht": 1 }
-     ]
-    },
+    { "name": "Key-Value Stores", "rht": 1, "rht-product": "Red Hat JBoss Data Grid" },
     { 
      "name": "Other NoSQL Data Bases",
      "rht": 1,
@@ -108,8 +101,8 @@
      "name": "Software Defined Storage Platforms",
      "rht": 2,
      "children" : [
-      { "name": "Block-Based Software Defined Storage", "rht": 1 },
-      { "name": "File-Based Sofware Defined Storage" , "rht": 1},
+      { "name": "Block-Based Software Defined Storage", "rht": 1, "rht-product": "Red Hat Gluster Storage" },
+      { "name": "File-Based Sofware Defined Storage" , "rht": 1, "rht-product": "Red Hat Ceph Storage" },
       { "name": "Object-Based Software Defined Storage", "rht": 0 },
       { "name": "Hyperconverged Software-Defined Storage", "rht": 0 }
      ]

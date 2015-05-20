@@ -25,10 +25,10 @@ rect {
   <body>
     <div id="body">
       <div id="footer">
-        d3.layout.treemap
+        Databse Taxonomy
         <div class="hint">click or option-click to descend or ascend</div>
         <div><select>
-          <option value="size">Size</option>
+          <option value="Popularity">Popularity</option>
           <option value="count">Count</option>
         </select></div>
       </div>
@@ -88,7 +88,7 @@ d3.json("json/database-taxonomy-all.json", function(data) {
   d3.select(window).on("click", function() { zoom(root); });
 
   d3.select("select").on("change", function() {
-    treemap.value(this.value == "size" ? size : count).nodes(root);
+    treemap.value(this.value == "Popularity" ? size : count).nodes(root);
     zoom(node);
   });
 });
