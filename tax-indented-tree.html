@@ -43,14 +43,29 @@ var diagonal = d3.svg.diagonal()
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
-  .append("g")
+    .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+/* recursive node colapse */		
+function closeAll(start){
+	if(start.children!=null){
+		start.children.forEach(function(n){
+			closeAll(n);
+			n._children = n.children;
+			n.children = null;
+		});
+     }
+}
+	
 d3.json("json/data-taxonomy.json", function(error, taxonomy) {
   taxonomy.x0 = 0;
   taxonomy.y0 = 0;
-  update(root = taxonomy);
+  closeAll(root = taxonomy);
+  update(root);
 });
+
+
+
 
 function update(source) {
 
