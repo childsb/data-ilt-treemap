@@ -21,6 +21,21 @@ path.link {
   stroke-width: 1.5px;
 }
 
+div.tooltip {
+  position: absolute;	
+  text-align: center;	
+  width: 160px;	
+  height: 16px;		
+  padding: 2px;	
+  font: 12px sans-serif;
+  color: white;	
+  background: #660000;	
+  border: 0px;					
+  border-radius: 8px;
+ /*  pointer-events: none;	This line needs to be removed */
+	
+}
+
 </style>
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -56,11 +71,30 @@ function closeAll(start){
 		});
      }
 }
+
+function highlightProducts(n){
+	var start = n.children || n._children;
+	var count = 0;
 	
+	if(start!=null){
+		start.forEach(function(a){
+			count = count + highlightProducts(a);
+		});
+     }else{
+     	count = n.rht ? parseInt(n.rht) : 0;
+     }
+	 if(count > 0 ){
+		 n.name = n.name + " | Red Hat Products : " + count ;
+	 }
+	 return count;
+}
+
+ 	
 d3.json("json/data-taxonomy.json", function(error, taxonomy) {
   taxonomy.x0 = 0;
   taxonomy.y0 = 0;
   closeAll(root = taxonomy);
+  highlightProducts(root);
   update(root);
 });
 
@@ -103,7 +137,20 @@ function update(source) {
       .attr("width", barWidth)
       .style("fill", color)
       .on("click", click);
-
+	  
+   nodeEnter.on("mouseover", function(d) {
+	  var text = d["rht-product"];
+			
+	  divTool.transition().duration(500).style("opacity", 0);
+			
+	  if(text==null) return;
+	  divTool.transition().duration(200).style("opacity", 1);
+				
+	  divTool.html(text )	 
+	   .style("left", (d3.event.pageX) + "px")			 
+	   .style("top", (d3.event.pageY - 28) + "px")
+	});
+		
   nodeEnter.append("text")
       .attr("dy", 3.5)
       .attr("dx", 5.5)
@@ -177,8 +224,28 @@ function click(d) {
   update(d);
 }
 
+
+
 function color(d) {
-  return d._children ? "#4442bd" : d.children ? "#c6dbef" : "#fd8d3c";
+	
+	if(d["rht-product"] != null )
+		return "#780000" ;
+	
+	if(d._children){
+		/* node children exist & are collapsed */
+		return "#4442bd";
+	}else if(d.children){
+		/* node children exist * are expanded */
+		
+		return "#c6dbef";
+	}
+  /* node has no children */	
+  return "#fd8d3c";
 }
 
+var divTool = d3.select("body")
+	.append("div")  // declare the tooltip div 
+	.attr("class", "tooltip")              // apply the 'tooltip' class
+	.style("opacity", 0);                  // set the opacity to nil
+	
 </script>
