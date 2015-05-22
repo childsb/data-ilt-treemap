@@ -1,11 +1,9 @@
 {
  "name": "Overall Data Taxnonomy (all categories)",
- "rht": 4,
  "children": [
   { "name": "Relational  Databases (SQL)", "rht": 0 },
   { 
    "name": "Non-Relational Databases (NoSQL)",
-   "rht": 2,
    "children": [
     { "name": "Document Stores", "rht": 0 },
     { "name": "Graph Databases", "rht": 0 },
@@ -13,7 +11,6 @@
     { "name": "Key-Value Stores", "rht": 1, "rht-product": "Red Hat JBoss Data Grid" },
     { 
      "name": "Other NoSQL Data Bases",
-     "rht": 1,
      "children": [ 
       { "name": "RFD Stores", "rht": 0 },
       { "name": "Object oriented DBMS", "rht": 0 },
@@ -28,7 +25,6 @@
   },
   {
    "name": "Data Processing", 
-   "rht": 0,
    "children": [
     { "name": "Programming Models/Frameworks", "rht": 0 },
     { "name": "Machine Learning/Data Science", "rht": 0 },
@@ -37,7 +33,6 @@
   },
   {
    "name": "Buisiness Intelligence", 
-  "rht": 0,
    "children": [
     { "name": "Data Transformation Tools (eg: ETL)", "rht": 0 },
     { "name": "BI/reporting", "rht": 0 },
@@ -49,7 +44,6 @@
    "children": [
     {
      "name": "Data Protection and Recovery",
-     "rht": 0,
      "children" : [
       { "name": "Data Protection", "rht": 0 },
       { "name": "Continuous Data Protection", "rht": 0 },
@@ -60,7 +54,6 @@
     },
     {
      "name": "Storage Replication",
-     "rht": 0,
      "children" : [
       { "name": "Host/Hypervisor-Based Replication", "rht": 0 },
       { "name": "System and Data Migration", "rht": 0 },
@@ -71,7 +64,6 @@
     },
     {
      "name": "Archiving",
-     "rht": 0,
      "children" : [
       { "name": "Email Archiving", "rht": 0 },
       { "name": "File and Other Archiving", "rht": 0 }
@@ -79,7 +71,6 @@
     },
     {
      "name": "Storage and Device Maangement",
-     "rht": 0,
      "children" : [
       { "name": "SRM and Heterogenous SAN Management", "rht": 0 },
       { "name": "SRM and SAN Management for Homogenous Environments", "rht": 0 },
@@ -89,7 +80,6 @@
     },
     {
      "name": "Storage Infrastructure Software",
-     "rht": 0,
      "children" : [
       { "name": "Virtualization and Federation", "rht": 0 },
       { "name": "File Systems and Volume Management", "rht": 1 },
@@ -99,7 +89,6 @@
     },
     {
      "name": "Software Defined Storage Platforms",
-     "rht": 2,
      "children" : [
       { "name": "Block-Based Software Defined Storage", "rht": 1, "rht-product": "Red Hat Gluster Storage" },
       { "name": "File-Based Sofware Defined Storage" , "rht": 1, "rht-product": "Red Hat Ceph Storage" },
